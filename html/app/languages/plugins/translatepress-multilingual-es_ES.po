@@ -1,0 +1,1303 @@
+# Translation of Plugins - TranslatePress &#8211; Translate Multilingual sites - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - TranslatePress &#8211; Translate Multilingual sites - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-07-28 20:53:07+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - TranslatePress &#8211; Translate Multilingual sites - Stable (latest release)\n"
+
+#: includes/advanced-settings/custom-date-format.php:16
+#: languages/translatepress-multilingual.catalog.php:326
+msgid "Date format"
+msgstr "Formato de fecha"
+
+#: includes/class-settings.php:163
+#: languages/translatepress-multilingual.catalog.php:100
+msgid "Install & Activate"
+msgstr "Instalar y activar"
+
+#: partials/addons-settings-page.php:99 partials/addons-settings-page.php:113
+#: languages/translatepress-multilingual.catalog.php:230
+msgid "Installing..."
+msgstr "Instalando..."
+
+#: languages/translatepress-multilingual.catalog.php:318
+msgid "Published"
+msgstr "Publicada"
+
+#: languages/translatepress-multilingual.catalog.php:317
+msgid "Filter by Post Type"
+msgstr "Filtrar por tipo de contenido"
+
+#: languages/translatepress-multilingual.catalog.php:316
+msgid "Post Type"
+msgstr "Tipo de contenido"
+
+#: languages/translatepress-multilingual.catalog.php:315
+msgid "Post ID"
+msgstr "ID de entrada"
+
+#: languages/translatepress-multilingual.catalog.php:312
+msgid "Filter by Taxonomy"
+msgstr "Filtrar por taxonomía"
+
+#: languages/translatepress-multilingual.catalog.php:311
+msgid "Taxonomy"
+msgstr "Taxonomía"
+
+#: languages/translatepress-multilingual.catalog.php:310
+msgid "Term Slug"
+msgstr "Slug del término"
+
+#: languages/translatepress-multilingual.catalog.php:307
+msgid "Translation"
+msgstr "Traducción"
+
+#: languages/translatepress-multilingual.catalog.php:306
+msgid "Taxonomy Slug"
+msgstr "Slug de la taxonomía"
+
+#: includes/string-translation/class-string-translation.php:227
+msgctxt "Untranslated in this language"
+msgid "in"
+msgstr "en"
+
+#: includes/string-translation/class-string-translation.php:213
+msgctxt "page 1 of 3"
+msgid "of"
+msgstr "de"
+
+#: includes/string-translation/class-string-translation.php:236
+#: languages/translatepress-multilingual.catalog.php:416
+msgid "Navigate to last page"
+msgstr "Navegar a la última página"
+
+#: includes/string-translation/class-string-translation.php:235
+#: languages/translatepress-multilingual.catalog.php:415
+msgid "Navigate to first page"
+msgstr "Navegar a la primera página"
+
+#: includes/string-translation/class-string-translation.php:234
+#: languages/translatepress-multilingual.catalog.php:414
+msgid "Navigate to previous page"
+msgstr "Navegar a la página anterior"
+
+#: includes/string-translation/class-string-translation.php:233
+#: languages/translatepress-multilingual.catalog.php:413
+msgid "Navigate to next page"
+msgstr "Navegar a la página siguiente"
+
+#: includes/string-translation/class-string-translation.php:220
+#: languages/translatepress-multilingual.catalog.php:406
+msgid "Select All"
+msgstr "Seleccionar todo"
+
+#: includes/string-translation/class-string-translation.php:216
+#: languages/translatepress-multilingual.catalog.php:403
+msgid "Apply"
+msgstr "Aplicar "
+
+#: includes/string-translation/class-string-translation.php:215
+#: languages/translatepress-multilingual.catalog.php:402
+msgid "See Less"
+msgstr "Ver menos"
+
+#: includes/string-translation/class-string-translation.php:214
+#: languages/translatepress-multilingual.catalog.php:401
+msgid "See More"
+msgstr "Ver más"
+
+#: languages/translatepress-multilingual.catalog.php:400
+msgid "of"
+msgstr "de"
+
+#: includes/string-translation/class-string-translation.php:212
+#: languages/translatepress-multilingual.catalog.php:399
+msgid "items"
+msgstr "elementos"
+
+#: includes/string-translation/class-string-translation.php:211
+#: languages/translatepress-multilingual.catalog.php:398
+msgid "Import / Export"
+msgstr "Importar / Exportar"
+
+#: includes/string-translation/class-string-translation.php:210
+#: languages/translatepress-multilingual.catalog.php:397
+msgid "Add New"
+msgstr "Añadir nuevo"
+
+#: includes/string-translation/class-string-translation.php:209
+#: languages/translatepress-multilingual.catalog.php:396
+msgid "Filter by language"
+msgstr "Filtrar por idioma"
+
+#: includes/string-translation/class-string-translation.php:169
+#: languages/translatepress-multilingual.catalog.php:392
+msgid "Delete entries"
+msgstr "Borrar las entradas"
+
+#: includes/string-translation/class-string-translation.php:208
+#: languages/translatepress-multilingual.catalog.php:395
+msgid "Filter"
+msgstr "Filtro"
+
+#: includes/string-translation/class-string-translation.php:207
+#: languages/translatepress-multilingual.catalog.php:394
+msgid "Translation Status"
+msgstr "Estado de la traducción"
+
+#: includes/string-translation/class-string-translation.php:174
+#: languages/translatepress-multilingual.catalog.php:393
+msgid "Edit"
+msgstr "Editar"
+
+#: includes/string-translation/class-string-translation.php:167
+#: languages/translatepress-multilingual.catalog.php:391
+msgid "Bulk Actions"
+msgstr "Acciones en lote"
+
+#: includes/string-translation/class-string-translation.php:157
+#: languages/translatepress-multilingual.catalog.php:390
+msgid "Not translated"
+msgstr "No traducido"
+
+#: includes/string-translation/class-string-translation.php:156
+#: languages/translatepress-multilingual.catalog.php:389
+msgid "Automatically translated"
+msgstr "Traducido automáticamente"
+
+#: includes/class-translation-manager.php:272
+#: languages/translatepress-multilingual.catalog.php:174
+msgid "Visual Editor"
+msgstr "Editor visual"
+
+#: includes/advanced-settings/separators.php:29
+#: languages/translatepress-multilingual.catalog.php:374
+msgid "Debug"
+msgstr "Depurar"
+
+#: includes/advanced-settings/separators.php:19
+#: languages/translatepress-multilingual.catalog.php:373
+msgid "Exclude strings"
+msgstr "Excluir cadenas"
+
+#: includes/class-elementor-language-for-blocks.php:169
+#: includes/class-wp-bakery-language-for-blocks.php:158
+msgid "Select languages"
+msgstr "Seleccionar idiomas"
+
+#: includes/class-elementor-language-for-blocks.php:132
+#: includes/class-wp-bakery-language-for-blocks.php:106
+msgid "Select language"
+msgstr "Seleccionar idioma"
+
+#: includes/class-plugin-notices.php:367
+#: languages/translatepress-multilingual.catalog.php:76
+msgid "Something went wrong, please try again."
+msgstr "Algo ha salido mal, por favor, inténtalo de nuevo."
+
+#: includes/advanced-settings/exclude-words-from-auto-translate.php:9
+#: languages/translatepress-multilingual.catalog.php:361
+msgid "String"
+msgstr "Cadena"
+
+#: includes/class-settings.php:69
+#: languages/translatepress-multilingual.catalog.php:97
+msgid "Top Left"
+msgstr "Arriba a la izquierda"
+
+#: includes/class-settings.php:68
+#: languages/translatepress-multilingual.catalog.php:96
+msgid "Top Right"
+msgstr "Arriba a la derecha"
+
+#: includes/class-settings.php:67
+#: languages/translatepress-multilingual.catalog.php:95
+msgid "Bottom Left"
+msgstr "Abajo a la izquierda"
+
+#: includes/class-settings.php:66
+#: languages/translatepress-multilingual.catalog.php:94
+msgid "Bottom Right"
+msgstr "Abajo a la derecha"
+
+#: includes/class-translation-manager.php:159
+#: languages/translatepress-multilingual.catalog.php:163
+msgid "Click to Copy"
+msgstr "Haz clic para copiar"
+
+#: includes/class-advanced-tab.php:178
+msgid "Settings saved."
+msgstr "Ajustes guardados."
+
+#: includes/class-advanced-tab.php:19
+#: languages/translatepress-multilingual.catalog.php:31
+msgid "Advanced"
+msgstr "Avanzado"
+
+#: includes/advanced-settings/exclude-selectors.php:9
+#: includes/advanced-settings/exclude-dynamic-selectors.php:9
+#: languages/translatepress-multilingual.catalog.php:352
+msgid "Selector"
+msgstr "Selector"
+
+#: includes/advanced-settings/exclude-gettext-strings.php:10
+#: languages/translatepress-multilingual.catalog.php:356
+msgid "Domain"
+msgstr "Dominio"
+
+#: includes/advanced-settings/enable-auto-translate-slug.php:8
+#: languages/translatepress-multilingual.catalog.php:346
+msgid "Automatically translate slugs"
+msgstr "Traducir los slugs automáticamente"
+
+#: includes/advanced-settings/disable-dynamic-translation.php:8
+#: languages/translatepress-multilingual.catalog.php:336
+msgid "Disable dynamic translation"
+msgstr "Desactivar la traducción dinámica"
+
+#: partials/addons-settings-page.php:29
+#: languages/translatepress-multilingual.catalog.php:218
+msgid "Add as many languages as you need for your project to go global.<br>Publish your language only when all your translations are done."
+msgstr "Añade tantos idiomas como necesites para hacer global tu proyecto.<br>Publica un idioma sólo cuando hayas terminado todas las traducciones."
+
+#: partials/addons-settings-page.php:76
+#: languages/translatepress-multilingual.catalog.php:225
+msgid "Configure different menu items for different languages."
+msgstr "Configura diferentes elementos de menú según los diferentes idiomas."
+
+#: partials/addons-settings-page.php:68
+#: languages/translatepress-multilingual.catalog.php:224
+msgid "Navigate your website just like a particular user role would. <br/>Really useful for dynamic content or hidden content that appears for particular users."
+msgstr "Navega por tu sitio web como lo haría un usuario normal. <br/>Muy útil para contenidos dinámicos o contenido oculto para usuarios normales."
+
+#: partials/addons-settings-page.php:60
+#: languages/translatepress-multilingual.catalog.php:223
+msgid "Create translator accounts for new users or allow existing users <br/>that are not administrators to translate your website."
+msgstr "Crea cuentas de traductor para usuarios nuevos o permite a los ya existentes <br/> que no sean administradores que traduzcan tu web."
+
+#: partials/addons-settings-page.php:36
+#: languages/translatepress-multilingual.catalog.php:220
+msgid "These addons extend your translation plugin and are available in the Business and Developer plans."
+msgstr "Estas extensiones mejoran tu plugin de traducciones y están disponibles en los planes Business y Developer."
+
+#: partials/addons-settings-page.php:35
+#: languages/translatepress-multilingual.catalog.php:219
+msgid "Pro Addons"
+msgstr "Extensiones Pro"
+
+#: partials/addons-settings-page.php:13
+#: languages/translatepress-multilingual.catalog.php:216
+msgid "These addons extend your translation plugin and are available in the Developer, Business and Personal plans."
+msgstr "Estas extensiones mejoran tu plugin de traducciones y están disponibles en los planes Developer, Business y Personal."
+
+#: partials/addons-settings-page.php:12
+#: languages/translatepress-multilingual.catalog.php:215
+msgid "Advanced Addons"
+msgstr "Extensiones avanzadas"
+
+#: partials/main-settings-page.php:108
+#: languages/translatepress-multilingual.catalog.php:284
+msgid "Add a floating dropdown that follows the user on every page."
+msgstr "Añade un desplegable flotante que sigue al usuarios en todas las páginas."
+
+#: partials/main-settings-page.php:44
+#: languages/translatepress-multilingual.catalog.php:272
+msgid "Select Yes if you want to display languages in their native names. Otherwise, languages will be displayed in English."
+msgstr "Elige Sí si quieres mostrar los idiomas con sus nombres nativos. Si no, los nombres de los idiomas se mostrarán en inglés."
+
+#: partials/main-settings-page.php:21
+#: languages/translatepress-multilingual.catalog.php:266
+msgid "Select the original language of your content."
+msgstr "Elige el idioma original en el que está escrito tu contenido."
+
+#: includes/class-translation-manager.php:152
+#: languages/translatepress-multilingual.catalog.php:157
+msgid "Different Menu Items for each Language"
+msgstr "Elementos de menús diferentes según el idioma"
+
+#: includes/class-translation-manager.php:150
+#: languages/translatepress-multilingual.catalog.php:155
+msgid "Publish only when translation is complete"
+msgstr "Publicación sólo cuando la traducción esté completa"
+
+#: includes/class-translation-manager.php:135
+#: languages/translatepress-multilingual.catalog.php:144
+msgid "Are you sure you want to split this phrase into smaller parts?"
+msgstr "¿Estás seguro de que quieres trocear esta frase en partes más pequeñas?"
+
+#: partials/addons-settings-page.php:52
+#: languages/translatepress-multilingual.catalog.php:222
+msgid "Automatically redirects new visitors to their preferred language based on browser settings or IP address</br> and remembers the last visited language."
+msgstr "Redirige automáticamente a los usuarios a su idioma preferido basándose en los ajustes del navegador o la dirección IP</br> y recuerda el último idioma visitado."
+
+#: partials/addons-settings-page.php:21
+#: languages/translatepress-multilingual.catalog.php:217
+msgid "SEO support for page slug, page title, description and facebook and twitter social graph information. </br> The HTML lang attribute is properly set."
+msgstr "Compatibilidad SEO para el slug de la página, título de la página, descripción e información para el social graph de Facebook y Twitter. </br> El atributo lang de HTML se inserta correctamente."
+
+#: partials/trp-remove-duplicate-rows.php:19
+#: languages/translatepress-multilingual.catalog.php:297
+msgid "The number of rows to check at once.<br>Choosing a smaller number helps solve the 504 error \"Page took too long to respond\" on large databases.<br>May take several minutes depending on the database size."
+msgstr "El número de filas que se deben verificar al mismo tiempo.<br> La elección de un número más pequeño ayuda a resolver el error 504 «La página ha tardado demasiado en responder» en las bases de datos grandes. <br> Puede tardar varios minutos dependiendo del tamaño de la base de datos."
+
+#: partials/main-settings-page.php:57
+#: languages/translatepress-multilingual.catalog.php:274
+msgid "Select Yes if you want to add the subdirectory in the URL for the default language.</br>By selecting Yes, the default language seen by website visitors will become the first one in the \"All Languages\" list."
+msgstr "Elige Sí si quieres añadir el subdirectorio en la URL para el idioma por defecto. </br>Si eliges Sí, el idioma por defecto que vean los visitantes del sitio será el primero de la lista «Todos los idiomas»."
+
+#: partials/main-settings-page.php:50
+#: languages/translatepress-multilingual.catalog.php:273
+msgid "Use a subdirectory for the default language"
+msgstr "Utiliza un subdirectorio del idioma por defecto"
+
+#: includes/class-translation-manager.php:236
+#: languages/translatepress-multilingual.catalog.php:173
+msgid "Dynamically Added Strings"
+msgstr "Cadenas añadidas dinámicamente"
+
+#: partials/trp-remove-duplicate-rows.php:10
+#: languages/translatepress-multilingual.catalog.php:294
+msgid "<strong>IMPORTANT NOTE: Before performing this action it is strongly recommended to first backup the database.</strong><br><br>This feature can be used to cleanup duplicate entries in TranslatePress trp_dictionary or trp_gettext tables. Such duplicates can appear in exceptional situations of unexpected behavior."
+msgstr "<strong>NOTA IMPORTANTE: Antes de ejecutar esta acción, se recomienda encarecidamente hacer primero una copia de seguridad de la base de datos.</strong><br><br>Esta característica puede usarse para limpiar entradas duplicadas en las tablas  `trp_dictionary` o `trp_gettext`de TranslatePress. Estos duplicados puedes aparecer situaciones excepcionales de comportamientos no esperados."
+
+#: includes/class-settings.php:435
+#: languages/translatepress-multilingual.catalog.php:2
+msgid "Error! Duplicate URL slug values."
+msgstr "¡Error! Valores del slug de la URL duplicados."
+
+#: includes/class-upgrade.php:222 includes/class-upgrade.php:328
+#: includes/class-upgrade.php:481 includes/class-upgrade.php:486
+#: languages/translatepress-multilingual.catalog.php:203
+msgid "Back to TranslatePress Settings"
+msgstr "Volver a los ajustes de TranslatePress"
+
+#: includes/class-plugin-notices.php:339
+#: languages/translatepress-multilingual.catalog.php:74
+msgid "You are not using a permalink structure! Please <a href=\"%s\">enable</a> one or install our <a href=\"%s\">\"Language by GET parameter\"</a> addon, so that TranslatePress can function properly."
+msgstr "¡No estás utilizando ninguna estructura de enlaces permanentes! Por favor, <a href=\"%s\">activa</a>uno o instala nuestra extensión <a href=\"%s\">«Language by GET parameter»</a> para que TranslatePress pueda funcionar correctamente."
+
+#: includes/class-translation-manager.php:99
+#: languages/translatepress-multilingual.catalog.php:114
+msgid "Text"
+msgstr "Texto"
+
+#: includes/class-translation-manager.php:109
+#: languages/translatepress-multilingual.catalog.php:123
+msgid "Close Editor"
+msgstr "Cerrar editor"
+
+#: includes/class-translation-manager.php:110
+#: languages/translatepress-multilingual.catalog.php:124
+msgid "From"
+msgstr "De"
+
+#: includes/class-translation-manager.php:111
+#: languages/translatepress-multilingual.catalog.php:125
+msgid "To"
+msgstr "Hasta"
+
+#: includes/class-translation-manager.php:114
+#: languages/translatepress-multilingual.catalog.php:128
+msgid "Add Media"
+msgstr "Añadir objeto"
+
+#: includes/class-translation-manager.php:120
+#: languages/translatepress-multilingual.catalog.php:132
+msgid "Select or Upload Media"
+msgstr "Elige o sube medios"
+
+#: includes/class-translation-manager.php:235
+#: languages/translatepress-multilingual.catalog.php:172
+msgid "Images"
+msgstr "Imágenes"
+
+#: includes/google-translate/functions.php:59
+#: languages/translatepress-multilingual.catalog.php:385
+msgid "Your HTTP referrer is: %s"
+msgstr "Tu referente HTTP es: %s"
+
+#: includes/class-editor-api-regular-strings.php:48
+#: languages/translatepress-multilingual.catalog.php:43
+msgid "Others"
+msgstr "Otros"
+
+#: includes/class-translation-manager.php:234
+#: languages/translatepress-multilingual.catalog.php:171
+msgid "Gettext Strings"
+msgstr "Cadenas de Getttext"
+
+#: includes/class-translation-manager.php:231
+#: languages/translatepress-multilingual.catalog.php:168
+msgid "Slugs"
+msgstr "Slugs"
+
+#: includes/class-translation-manager.php:144
+#: languages/translatepress-multilingual.catalog.php:150
+msgid "Strings that are user-created cannot be modified, only those from themes and plugins."
+msgstr "Las cadenas creadas por los usuarios no pueden ser modificadas, sólo las que vienen de los temas y plugins."
+
+#: includes/class-translation-manager.php:139
+#: languages/translatepress-multilingual.catalog.php:147
+msgid "To translate slugs, please update the SEO Pack add-on to the latest version."
+msgstr "Para traducir slugs, por favor, actualiza la extensión SEO Pack a su última versión."
+
+#: includes/class-translation-manager.php:136
+#: languages/translatepress-multilingual.catalog.php:145
+msgid "This string is not ready for translation yet. <br>Try again in a moment..."
+msgstr "Esta cadena todavía no está lista para su traducción. <br>Prueba de nuevo en un momento..."
+
+#: includes/class-translation-manager.php:130
+#: languages/translatepress-multilingual.catalog.php:140
+msgid "Discard all changes. Shortcut: CTRL(⌘) + ALT + Z"
+msgstr "Descartar todos los cambios. Atajo: CTRL(⌘) + ALT + Z"
+
+#: includes/class-translation-manager.php:128
+#: languages/translatepress-multilingual.catalog.php:138
+msgid "Navigate to next string in dropdown list. Shortcut: CTRL(⌘) + ALT + Right Arrow"
+msgstr "Navega a la siguiente cadena de la lista desplegable. Atajo: CTRL(⌘) + ALT + Flecha derecha"
+
+#: includes/class-translation-manager.php:116
+#: languages/translatepress-multilingual.catalog.php:130
+msgid "View As"
+msgstr "Ver como"
+
+#: includes/class-translation-manager.php:106
+#: languages/translatepress-multilingual.catalog.php:120
+msgid "Discard All"
+msgstr "Descartar todas"
+
+#: includes/class-translation-manager.php:103
+#: languages/translatepress-multilingual.catalog.php:117
+msgid "Saving translation..."
+msgstr "Guardando traducción..."
+
+#: includes/class-translation-manager.php:101
+#: languages/translatepress-multilingual.catalog.php:115
+msgid "Saved"
+msgstr "Guardado"
+
+#: includes/class-translation-manager.php:98
+#: languages/translatepress-multilingual.catalog.php:113
+msgid "Submit attribute"
+msgstr "Enviar atributo"
+
+#: includes/class-translation-manager.php:97
+#: languages/translatepress-multilingual.catalog.php:112
+msgid "Placeholder attribute"
+msgstr "Atributo de marcador de posición"
+
+#: includes/class-translation-manager.php:96
+#: languages/translatepress-multilingual.catalog.php:111
+msgid "Anchor link"
+msgstr "Enlace ancla"
+
+#: includes/class-translation-manager.php:94
+#: languages/translatepress-multilingual.catalog.php:109
+msgid "Alt attribute"
+msgstr "Atributo Alt"
+
+#: includes/class-translation-manager.php:138
+#: languages/translatepress-multilingual.catalog.php:146
+msgid "For this option to work, please update the Browse as other role add-on to the latest version."
+msgstr "Para que funcione esta opción, por favor, actualiza el navegador y otras extensión de rol a la última versión."
+
+#: includes/class-translation-manager.php:131
+#: languages/translatepress-multilingual.catalog.php:141
+msgid "Discard changes to this text box. To discard changes to all text boxes use shortcut: CTRL(⌘) + ALT + Z"
+msgstr "Descartar los cambios de esta caja de texto. Para descartar los cambios en todas las cajas de texto usa el atajo: CTRL(⌘) + ALT + Z"
+
+#: includes/class-translation-manager.php:129
+#: languages/translatepress-multilingual.catalog.php:139
+msgid "Navigate to previous string in dropdown list. Shortcut: CTRL(⌘) + ALT + Left Arrow"
+msgstr "Navegar a la cadena anterior de la lista desplegable. Atajo: CTRL(⌘) + ALT + Flecha izquierda"
+
+#: includes/class-translation-manager.php:127
+#: languages/translatepress-multilingual.catalog.php:137
+msgid "Save changes to translation. Shortcut: CTRL(⌘) + S"
+msgstr "Guardar cambios en la traducción. Atajo: CTRL(⌘) + S"
+
+#: includes/class-translation-manager.php:121
+#: languages/translatepress-multilingual.catalog.php:133
+msgid "Use this media"
+msgstr "Utilizar este elemento multimedia"
+
+#: includes/class-translation-manager.php:107
+#: languages/translatepress-multilingual.catalog.php:121
+msgid "Loading Strings..."
+msgstr "Cargando cadenas..."
+
+#: includes/class-translation-manager.php:95
+#: languages/translatepress-multilingual.catalog.php:110
+msgid "Title attribute"
+msgstr "Atributo título"
+
+#: includes/class-translation-manager.php:93
+#: languages/translatepress-multilingual.catalog.php:108
+msgid "Image source"
+msgstr "Origen de la imagen"
+
+#: includes/class-plugin-notices.php:404
+#: languages/translatepress-multilingual.catalog.php:79
+msgid "NEW: Display different images based on language. Find out <a href=\"https://translatepress.com/docs/image-translation/\" >how to translate images, sliders and more</a> from the TranslatePress editor."
+msgstr "NUEVO: Muestra diferentes imágenes según el idioma. Consulta <a href=\"https://translatepress.com/docs/image-translation/\" >cómo traducir imágenes, carruseles y más cosas</a> en el editor de TranslatePress."
+
+#: index.php:62 languages/translatepress-multilingual.catalog.php:5
+msgid "<strong>TranslatePress</strong> requires at least PHP version 5.6.20+ to run. It is the <a href=\"%s\">minimum requirement of the latest WordPress version</a>. Please contact your server administrator to update your PHP version."
+msgstr "<strong>TranslatePress</strong> necesita, al menos, la versión 5.6.20+ para funcionar. Es el <a href=\"%s\">requisito mínimo de la última versión de WordPress</a>. Por favor, contacta con el administrador del servidor para actualizar la versión de PHP."
+
+#: includes/class-edd-sl-plugin-updater.php:715
+#: languages/translatepress-multilingual.catalog.php:39
+msgid "This appears to be an invalid license key for %s."
+msgstr "Esta parece ser una clave de licencia no válida para %s."
+
+#: includes/class-edd-sl-plugin-updater.php:215
+msgid "There is a new version of %1$s available. %2$sView version %3$s details%4$s."
+msgstr "Hay una nueva versión de %1$s disponible. %2$sVer los detalles de la versión %3$s%4$s."
+
+#: includes/class-edd-sl-plugin-updater.php:223
+msgid "There is a new version of %1$s available. %2$sView version %3$s details%4$s or %5$supdate now%6$s."
+msgstr "Hay una nueva versión de %1$s disponible. %2$sVer los detalles de la versión %3$s %4$s o %5$sactualiza ahora%6$s."
+
+#: includes/class-edd-sl-plugin-updater.php:417
+msgid "You do not have permission to install plugin updates"
+msgstr "No tienes permiso para instalar actualizaciones de plugins"
+
+#: includes/class-edd-sl-plugin-updater.php:417
+msgid "Error"
+msgstr "Error"
+
+#: includes/class-plugin-notices.php:388
+msgid "Your <strong>TranslatePress</strong> license will expire on %1$s. Please %2$sRenew Your Licence%3$s to continue receiving access to product downloads, automatic updates and support."
+msgstr "Tu licencia de <strong>TranslatePress</strong> caduca el %1$s. Por favor, %2$srenueva tu licencia%3$s para continuar recibiendo acceso a descargas de productos, actualizaciones automáticas y soporte."
+
+#: includes/class-plugin-notices.php:365
+msgid "Your <strong>TranslatePress</strong> license has expired. <br/>Please %1$sRenew Your Licence%2$s to continue receiving access to product downloads, automatic updates and support. %3$sRenew now %4$s"
+msgstr "Tu licencia de <strong>TranslatePress</strong> ha caducado. <br/>Por favor, %1$srenueva tu licencia%2$s para continuar recibiendo acceso a descargas de productos, actualizaciones automáticas y soporte.%3$sRenuévala ahora%4$s"
+
+#: partials/license-settings-page.php:27
+#: languages/translatepress-multilingual.catalog.php:237
+msgid "Your license is invalid"
+msgstr "Tu licencia no es válida"
+
+#: partials/license-settings-page.php:25
+#: languages/translatepress-multilingual.catalog.php:238
+msgid "Active on this site"
+msgstr "Activa en este sitio"
+
+#: includes/class-edd-sl-plugin-updater.php:752
+#: languages/translatepress-multilingual.catalog.php:42
+msgid "You have successfully activated your license"
+msgstr "Has activado tu licencia con éxito"
+
+#: includes/class-edd-sl-plugin-updater.php:718
+#: languages/translatepress-multilingual.catalog.php:40
+msgid "Your license key has reached its activation limit."
+msgstr "Tu clave de licencia ha llegado a su límite de activaciones."
+
+#: includes/class-edd-sl-plugin-updater.php:712
+#: languages/translatepress-multilingual.catalog.php:38
+msgid "Your license is not active for this URL."
+msgstr "Tu licencia no está activa para esta URL."
+
+#: includes/class-edd-sl-plugin-updater.php:708
+#: languages/translatepress-multilingual.catalog.php:37
+msgid "Invalid license."
+msgstr "Licencia no válida."
+
+#: includes/class-edd-sl-plugin-updater.php:705
+#: languages/translatepress-multilingual.catalog.php:36
+msgid "Your license key has been disabled."
+msgstr "Tu licencia ha sido desactivada."
+
+#: includes/class-edd-sl-plugin-updater.php:700
+#: languages/translatepress-multilingual.catalog.php:35
+msgid "Your license key expired on %s."
+msgstr "Tu clave de licencia caduca el %s."
+
+#: includes/class-edd-sl-plugin-updater.php:689
+#: includes/class-edd-sl-plugin-updater.php:721
+#: includes/class-edd-sl-plugin-updater.php:792
+#: languages/translatepress-multilingual.catalog.php:41
+msgid "An error occurred, please try again."
+msgstr "Hubo un error. Por favor, inténtalo otra vez."
+
+#: includes/class-plugin-notices.php:363
+msgid "Your <strong>TranslatePress</strong> serial number is invalid or missing. <br/>Please %1$sregister your copy%2$s to receive access to automatic updates and support. Need a license key? %3$sPurchase one now%4$s"
+msgstr "Falta tu número de serie de <strong>TranslatePress</strong> o no es válido. <br/>Por favor, %1$sregistra tu copia%2$s para tener acceso a las actualizaciones automáticas y al soporte. ¿Necesitas una clave de licencia? %3$sCompra una%4$s"
+
+#: partials/trp-update-database.php:3
+#: languages/translatepress-multilingual.catalog.php:301
+msgid "TranslatePress Database Updater"
+msgstr "Actualizador de la base de datos de TranslatePress"
+
+#: includes/class-upgrade.php:296 includes/class-upgrade.php:303
+#: languages/translatepress-multilingual.catalog.php:205
+msgid " done."
+msgstr "hecho."
+
+#: includes/class-upgrade.php:249
+#: languages/translatepress-multilingual.catalog.php:200
+msgid "Update aborted! Incorrect language code."
+msgstr "¡Actualización interrumpida! Código de idioma incorrecto."
+
+#: includes/class-upgrade.php:246
+#: languages/translatepress-multilingual.catalog.php:199
+msgid "Update aborted! Incorrect action."
+msgstr "¡Actualización interrumpida! Acción incorrecta."
+
+#: includes/class-upgrade.php:239 includes/class-upgrade.php:299
+#: languages/translatepress-multilingual.catalog.php:202
+msgid "Processing table for language %s..."
+msgstr "Procesando la tabla para el idioma %s..."
+
+#: includes/class-upgrade.php:235
+#: languages/translatepress-multilingual.catalog.php:201
+msgid "Updating database to version %s+"
+msgstr "Actualizando la base de datos a la versión %s+"
+
+#: includes/class-upgrade.php:207
+#: languages/translatepress-multilingual.catalog.php:198
+msgid "Update aborted! Invalid nonce."
+msgstr "¡Actualización interrumpida! Nonce no válido."
+
+#: includes/class-upgrade.php:202
+#: languages/translatepress-multilingual.catalog.php:197
+msgid "Update aborted! Your user account doesn't have the capability to perform database updates."
+msgstr "¡Actualización interrumpida! Tu cuenta de usuario no tiene la capacidad de ejecutar la actualización de la base de datos."
+
+#: includes/class-upgrade.php:226
+#: languages/translatepress-multilingual.catalog.php:204
+msgid "Successfully updated database!"
+msgstr "¡La base de datos se ha actualizado correctamente!"
+
+#: includes/class-upgrade.php:186
+#: languages/translatepress-multilingual.catalog.php:196
+msgid "Run the updater"
+msgstr "Ejecuta el actualizador"
+
+#: partials/trp-update-database.php:7
+#: languages/translatepress-multilingual.catalog.php:302
+msgid "Updating TranslatePress tables"
+msgstr "Actualizando las tablas de TranslatePress"
+
+#: includes/class-upgrade.php:185
+#: languages/translatepress-multilingual.catalog.php:194
+msgid "We need to update your translations database to the latest version."
+msgstr "Necesitamos actualizar las bases de datos de tus traducciones a su última versión."
+
+#: includes/class-upgrade.php:185
+#: languages/translatepress-multilingual.catalog.php:193
+msgid "TranslatePress data update"
+msgstr "Actualización de datos de TranslatePress"
+
+#: includes/class-translation-manager.php:1342
+#: languages/translatepress-multilingual.catalog.php:178
+msgid "<strong>Warning:</strong> Some strings have possibly incorrectly encoded characters. This may result in breaking the queries, rendering the page untranslated in live mode. Consider revising the following strings or their method of outputting."
+msgstr "<strong>Advertencia:</strong> Es posible que algunas cadenas tengan caracteres codificados incorrectamente. Esto podría provocar la ruptura de consultas, creando la página sin traducir en la versión en vivo. Considera revisar las siguientes cadenas o su método de salida."
+
+#: partials/main-settings-language-selector.php:8
+#: languages/translatepress-multilingual.catalog.php:19
+msgid "Code"
+msgstr "Código"
+
+#: partials/test-api-settings-page.php:20
+#: languages/translatepress-multilingual.catalog.php:288
+msgid "HTTP Referrer:"
+msgstr "Referencia HTTP"
+
+#: includes/google-translate/functions.php:58
+#: languages/translatepress-multilingual.catalog.php:384
+msgid "Visit <a href=\"https://cloud.google.com/docs/authentication/api-keys\" target=\"_blank\">this link</a> to see how you can set up an API key, <strong>control API costs</strong> and set HTTP referrer restrictions."
+msgstr "Visita <a href=\"https://cloud.google.com/docs/authentication/api-keys\" target=\"_blank\">este enlace</a> para ver cómo se consigue una clave de API, <strong>los costes de la API de control</strong> y cómo se fijan loas restricciones de las referencias HTTP."
+
+#: includes/class-translation-manager.php:155
+#: languages/translatepress-multilingual.catalog.php:160
+msgid "Find Out More"
+msgstr "Saber más"
+
+#: includes/class-translation-manager.php:153
+#: languages/translatepress-multilingual.catalog.php:158
+msgid "Automatic User Language Detection"
+msgstr "Detección automática de idioma del usuario"
+
+#: includes/class-translation-manager.php:151
+#: languages/translatepress-multilingual.catalog.php:156
+msgid "Translate by Browsing as User Role"
+msgstr "Traduce navegando con rol de usuario"
+
+#: includes/class-translation-manager.php:146
+#: languages/translatepress-multilingual.catalog.php:151
+msgid "Extra Translation Features"
+msgstr "Funcionalidades extras de traducción"
+
+#: includes/class-settings.php:583
+#: languages/translatepress-multilingual.catalog.php:107
+msgid "Pro Features"
+msgstr "Funcionalidades PRO"
+
+#: includes/class-translation-manager.php:148
+#: languages/translatepress-multilingual.catalog.php:153
+msgid "Yoast SEO support"
+msgstr "Compatibilidad con Yoast SEO"
+
+#: includes/class-translation-manager.php:147
+#: languages/translatepress-multilingual.catalog.php:152
+msgid "Support for 221 Extra Languages"
+msgstr "Compatibilidad con 221 idiomas adicionales"
+
+#: partials/trp-remove-duplicate-rows.php:15
+#: languages/translatepress-multilingual.catalog.php:296
+msgid "Batch size"
+msgstr "Tamaño del lote"
+
+#: includes/class-upgrade.php:186
+msgid "IMPORTANT: It is strongly recommended to first backup the database!\\nAre you sure you want to continue?"
+msgstr "IMPORTANTE: ¡se recomienda encarecidamente realizar una copia de seguridad de la base de datos primero! ¿Estás seguro de que quieres continuar?"
+
+#: includes/advanced-settings/remove-duplicates-from-db.php:7
+#: languages/translatepress-multilingual.catalog.php:370
+msgid "Remove duplicate rows"
+msgstr "Eliminar las filas duplicadas"
+
+#: partials/trp-remove-duplicate-rows.php:7
+#: languages/translatepress-multilingual.catalog.php:293
+msgid "Remove duplicate rows from TranslatePress tables"
+msgstr "Eliminando filas duplicadas de las tablas de TranslatePress"
+
+#: includes/class-upgrade.php:590 includes/class-upgrade.php:695
+#: languages/translatepress-multilingual.catalog.php:211
+msgid "click here"
+msgstr "haz clic aquí"
+
+#: includes/class-upgrade.php:590 includes/class-upgrade.php:695
+#: languages/translatepress-multilingual.catalog.php:210
+msgid "If the page does not redirect automatically"
+msgstr "Si la página no redirige automáticamente"
+
+#: includes/class-upgrade.php:552
+#: languages/translatepress-multilingual.catalog.php:209
+msgid "%s duplicates removed"
+msgstr "Eliminados %s duplicados"
+
+#: includes/class-upgrade.php:486
+#: languages/translatepress-multilingual.catalog.php:207
+msgid "Invalid nonce."
+msgstr "Nonce no válido."
+
+#: includes/class-upgrade.php:481
+#: languages/translatepress-multilingual.catalog.php:206
+msgid "Done."
+msgstr "Hecho."
+
+#: includes/class-upgrade.php:510
+#: languages/translatepress-multilingual.catalog.php:208
+msgid "Querying table <strong>%s</strong>"
+msgstr "Consultando la tabla <strong>%s</strong>"
+
+#: includes/compatibility-functions.php:63
+msgid "&hellip;"
+msgstr "&hellip;"
+
+#: includes/compatibility-functions.php:28
+#: languages/translatepress-multilingual.catalog.php:213
+msgid "<strong>TranslatePress</strong> requires <strong><a href=\"http://php.net/manual/en/book.mbstring.php\">Multibyte String PHP library</a></strong>. Please contact your server administrator to install it on your server."
+msgstr "<strong>TranslatePress</strong> necesita <strong><a href=\"http://php.net/manual/en/book.mbstring.php\">la librería PHP Multibyte String</a></strong>. Por favor, contacta con tu administrador para que la instale en el servidor."
+
+#: languages/translatepress-multilingual.catalog.php:16
+msgid "Method of language detection"
+msgstr "Método de detección de idioma"
+
+#: languages/translatepress-multilingual.catalog.php:10
+msgid "WARNING. Cannot determine your language preference based on your current IP.<br>This is most likely because the website is on a local environment."
+msgstr "ADVERTENCIA. No ha sido posible detectar tus preferencias de idioma basándonos en tu dirección IP. <br>Es lo más probable porque el sitio web está en un entorno local."
+
+#: languages/translatepress-multilingual.catalog.php:9
+msgid "Only by IP address"
+msgstr "Sólo por dirección IP"
+
+#: languages/translatepress-multilingual.catalog.php:7
+msgid "First by IP address, then by browser language"
+msgstr "Primero por la dirección IP, después por el idioma del navegador"
+
+#: languages/translatepress-multilingual.catalog.php:6
+msgid "First by browser language, then IP address (recommended)"
+msgstr "Primero por el idioma del navegador, después por la dirección IP (recomendado)"
+
+#: languages/translatepress-multilingual.catalog.php:17
+msgid "Select how the language should be detected for first time visitors.<br>The visitor's last displayed language will be remembered through cookies."
+msgstr "Elige cómo debe ser detectado el idioma para los que visitan el sitio por primera vez. <br>El último idioma consultado por el visitante será recordado mediante cookies."
+
+#: languages/translatepress-multilingual.catalog.php:8
+msgid "Only by browser language"
+msgstr "Sólo por idioma del navegador"
+
+#: partials/main-settings-page.php:27
+#: languages/translatepress-multilingual.catalog.php:269
+msgid "In most cases changing the default flag is all it is needed: "
+msgstr "En la mayoría de los casos, basta con cambiar la bandera por defecto:"
+
+#: partials/main-settings-page.php:25
+#: languages/translatepress-multilingual.catalog.php:267
+msgid "WARNING. Changing the default language will invalidate existing translations."
+msgstr "ADVERTENCIA. Al cambiar el idioma por defecto, se invalidan las traducciones existentes."
+
+#: partials/main-settings-page.php:28
+#: languages/translatepress-multilingual.catalog.php:270
+msgid "replace the default flag"
+msgstr "reemplazar la bandera predeterminada"
+
+#: partials/main-settings-page.php:26
+#: languages/translatepress-multilingual.catalog.php:268
+msgid "Even changing from en_US to en_GB, because they are treated as two different languages."
+msgstr "Incluso cambiando en_US por es_GB, porque se tratan como dos idiomas distintos."
+
+#: partials/main-settings-page.php:97
+#: languages/translatepress-multilingual.catalog.php:282
+msgid "Learn more in our documentation."
+msgstr "Aprende más en nuestra documentación."
+
+#: includes/class-translation-manager.php:124
+#: languages/translatepress-multilingual.catalog.php:134
+msgid "Translate"
+msgstr "Traducir"
+
+#: includes/class-translation-manager.php:126
+#: languages/translatepress-multilingual.catalog.php:136
+msgid "Split block to translate strings individually"
+msgstr "Rompe el bloque para traducir las cadenas individualmente"
+
+#: includes/class-translation-manager.php:125
+#: languages/translatepress-multilingual.catalog.php:135
+msgid "Translate entire block element"
+msgstr "Traducir el bloque completo"
+
+#: includes/class-plugin-notices.php:341 includes/class-plugin-notices.php:373
+#: includes/class-plugin-notices.php:392 includes/class-plugin-notices.php:406
+#: includes/class-plugin-notices.php:431 includes/class-plugin-notices.php:455
+#: includes/class-reviews.php:119 includes/class-reviews.php:122
+#: includes/class-error-manager.php:129
+#: languages/translatepress-multilingual.catalog.php:46
+msgid "Dismiss this notice."
+msgstr "Descartar este aviso."
+
+#: includes/class-settings.php:517
+#: languages/translatepress-multilingual.catalog.php:102
+msgid "General"
+msgstr "General"
+
+#: includes/class-settings.php:527
+#: languages/translatepress-multilingual.catalog.php:104
+msgid "Addons"
+msgstr "Extensiones"
+
+#: includes/string-translation/class-string-translation.php:91
+#: includes/class-translation-manager.php:48
+msgid "Cheatin&#8217; uh?"
+msgstr "¡Haciendo trampas! ¿eh?"
+
+#: includes/class-translation-manager.php:470 includes/class-settings.php:579
+#: languages/translatepress-multilingual.catalog.php:106
+msgid "Settings"
+msgstr "Ajustes"
+
+#: includes/class-translation-render.php:150
+#: languages/translatepress-multilingual.catalog.php:179
+msgid "Description"
+msgstr "Descripción"
+
+#: includes/class-translation-render.php:184
+#: languages/translatepress-multilingual.catalog.php:185
+msgid "Page Title"
+msgstr "Título de página"
+
+#: partials/license-settings-page.php:14
+#: languages/translatepress-multilingual.catalog.php:12
+msgid "License Key"
+msgstr "Clave de licencia"
+
+#: partials/license-settings-page.php:32
+#: languages/translatepress-multilingual.catalog.php:14
+msgid "Activate License"
+msgstr "Activar licencia"
+
+#: partials/main-settings-language-selector.php:7
+#: languages/translatepress-multilingual.catalog.php:18
+msgid "Language"
+msgstr "Idioma"
+
+#: partials/main-settings-language-selector.php:9
+#: languages/translatepress-multilingual.catalog.php:20
+msgid "Slug"
+msgstr "Slug"
+
+#: partials/main-settings-language-selector.php:40
+#: includes/class-advanced-tab.php:503 includes/class-advanced-tab.php:514
+#: includes/class-advanced-tab.php:602 includes/class-advanced-tab.php:633
+#: languages/translatepress-multilingual.catalog.php:23
+msgid "Remove"
+msgstr "Quitar"
+
+#: partials/main-settings-page.php:10
+#: languages/translatepress-multilingual.catalog.php:265
+msgid "Default Language"
+msgstr "Idioma predeterminado."
+
+#: partials/main-settings-page.php:40 partials/main-settings-page.php:53
+#: partials/main-settings-page.php:66
+#: partials/machine-translation-settings-page.php:12
+#: languages/translatepress-multilingual.catalog.php:241
+msgid "No"
+msgstr "No"
+
+#: partials/main-settings-page.php:41 partials/main-settings-page.php:54
+#: partials/main-settings-page.php:67
+#: partials/machine-translation-settings-page.php:13
+#: partials/machine-translation-settings-page.php:88
+#: partials/machine-translation-settings-page.php:121
+#: includes/class-advanced-tab.php:306 includes/class-error-manager.php:155
+#: languages/translatepress-multilingual.catalog.php:32
+msgid "Yes"
+msgstr "Sí"
+
+#: partials/main-settings-page.php:76
+#: languages/translatepress-multilingual.catalog.php:277
+msgid "Language Switcher"
+msgstr "Conmutador de idioma"
+
+#: includes/class-translation-manager.php:113
+#: languages/translatepress-multilingual.catalog.php:127
+msgid "Previous"
+msgstr "Anterior"
+
+#: includes/class-translation-manager.php:112
+#: languages/translatepress-multilingual.catalog.php:126
+msgid "Next"
+msgstr "Siguiente"
+
+#: includes/class-translation-manager.php:358
+msgid "Current User"
+msgstr "Usuario actual"
+
+#: includes/class-translation-manager.php:105
+#: languages/translatepress-multilingual.catalog.php:119
+msgid "Discard changes"
+msgstr "Descartar cambios"
+
+#: partials/main-settings-page.php:123 partials/advanced-settings-page.php:16
+#: partials/machine-translation-settings-page.php:132
+#: languages/translatepress-multilingual.catalog.php:233
+msgid "Save Changes"
+msgstr "Guardar cambios"
+
+#. Author URI of the plugin
+msgid "https://cozmoslabs.com/"
+msgstr "https://cozmoslabs.com/"
+
+#. Author of the plugin
+msgid "Cozmoslabs, Razvan Mocanu, Madalin Ungureanu, Cristophor Hurduban"
+msgstr "Cozmoslabs, Razvan Mocanu, Madalin Ungureanu, Cristophor Hurduban"
+
+#. Plugin URI of the plugin
+msgid "https://translatepress.com/"
+msgstr "https://translatepress.com/"
+
+#. Plugin Name of the plugin
+msgid "TranslatePress - Multilingual"
+msgstr "TranslatePress - Multilingual"
+
+#: languages/translatepress-multilingual.catalog.php:29
+msgid "Translator"
+msgstr "Traductor"
+
+#: languages/translatepress-multilingual.catalog.php:28
+msgid " TranslatePress Settings"
+msgstr "Ajustes de TranslatePress"
+
+#: includes/class-translation-manager.php:149
+#: languages/translatepress-multilingual.catalog.php:154
+msgid "Translate SEO Title, Description, Slug"
+msgstr "Traduce el título de SEO, descripción, slug"
+
+#: includes/class-translation-manager.php:142
+#: languages/translatepress-multilingual.catalog.php:148
+msgid "You can add a new language from <a href=\"%s\">Settings->TranslatePress</a>"
+msgstr "Puedes añadir un nuevo idioma en<a href=\"%s\">Ajustes->TranslatePress</a>"
+
+#: includes/class-translation-manager.php:115
+#: languages/translatepress-multilingual.catalog.php:129
+msgid "Other languages"
+msgstr "Otros idiomas"
+
+#: includes/class-translation-manager.php:117
+#: languages/translatepress-multilingual.catalog.php:131
+msgid "Available in our Pro Versions"
+msgstr "Disponible en nuestras versiones Pro"
+
+#: includes/class-translation-manager.php:359
+msgid "Logged Out"
+msgstr "Desconectado"
+
+#: includes/class-translation-manager.php:108
+#: languages/translatepress-multilingual.catalog.php:122
+msgid "Select string to translate..."
+msgstr "Elige la cadena a traducir..."
+
+#: includes/class-translation-manager.php:102
+#: languages/translatepress-multilingual.catalog.php:116
+msgid "Save translation"
+msgstr "Guardar traducción"
+
+#: partials/test-api-settings-page.php:32
+#: languages/translatepress-multilingual.catalog.php:292
+msgid "Entire Response From wp_remote_get():"
+msgstr "Respuesta completa de  wp_remote_get():"
+
+#: partials/test-api-settings-page.php:27
+#: languages/translatepress-multilingual.catalog.php:291
+msgid "Response Body:"
+msgstr "Cuerpo de la respuesta:"
+
+#: partials/test-api-settings-page.php:23
+#: languages/translatepress-multilingual.catalog.php:290
+msgid "Response:"
+msgstr "Respuesta:"
+
+#: partials/main-settings-page.php:88
+#: languages/translatepress-multilingual.catalog.php:280
+msgid "Menu item"
+msgstr "Elemento de menú"
+
+#: partials/main-settings-page.php:79
+#: languages/translatepress-multilingual.catalog.php:278
+msgid "Shortcode "
+msgstr "Shortcode "
+
+#: includes/google-translate/functions.php:38
+#: languages/translatepress-multilingual.catalog.php:383
+msgid "Google Translate API Key"
+msgstr "Clave de API de Google Translate"
+
+#: partials/main-settings-page.php:63
+#: languages/translatepress-multilingual.catalog.php:275
+msgid "Force language in custom links"
+msgstr "Forzar idioma en enlaces personalizados"
+
+#: partials/main-settings-language-selector.php:2
+#: languages/translatepress-multilingual.catalog.php:4
+msgid "All Languages"
+msgstr "Todos los idiomas"
+
+#: partials/main-settings-language-selector.php:55
+#: includes/class-advanced-tab.php:514 includes/class-advanced-tab.php:633
+#: languages/translatepress-multilingual.catalog.php:25
+msgid "Add"
+msgstr "Añadir"
+
+#: partials/main-settings-language-selector.php:40
+#: languages/translatepress-multilingual.catalog.php:22
+msgid "Are you sure you want to remove this language?"
+msgstr "¿Estás seguro de que quieres quitar este idioma?"
+
+#: partials/license-settings-page.php:22
+#: languages/translatepress-multilingual.catalog.php:15
+msgid "Deactivate License"
+msgstr "Desactivar licencia"
+
+#: partials/license-settings-page.php:38
+#: languages/translatepress-multilingual.catalog.php:13
+msgid "Enter your license key."
+msgstr "Escribe tu clave de licencia."
+
+#: partials/main-settings-page.php:5 partials/license-settings-page.php:8
+#: partials/license-settings-page.php:46 partials/addons-settings-page.php:3
+#: partials/trp-remove-duplicate-rows.php:3
+#: partials/test-api-settings-page.php:11
+#: languages/translatepress-multilingual.catalog.php:11
+msgid "TranslatePress Settings"
+msgstr "Ajustes de TranslatePress"
+
+#: languages/translatepress-multilingual.catalog.php:3
+msgid "Limit this menu item to the following languages"
+msgstr "Limita este elemento del menú a los siguientes idiomas"
+
+#: languages/translatepress-multilingual.catalog.php:27
+msgid "Post Slug"
+msgstr "Slug de la entrada"
+
+#: includes/class-translation-render.php:180
+#: languages/translatepress-multilingual.catalog.php:184
+msgid "Twitter Description"
+msgstr "Descripción para Twitter"
+
+#: includes/class-translation-render.php:174
+#: languages/translatepress-multilingual.catalog.php:183
+msgid "Twitter Title"
+msgstr "Título para Twitter"
+
+#: includes/class-translation-render.php:168
+#: languages/translatepress-multilingual.catalog.php:182
+msgid "OG Description"
+msgstr "Descripción para OG"
+
+#: includes/class-translation-render.php:162
+#: languages/translatepress-multilingual.catalog.php:181
+msgid "OG Site Name"
+msgstr "Nombre del sitio para OG"
+
+#: includes/class-translation-render.php:156
+#: languages/translatepress-multilingual.catalog.php:180
+msgid "OG Title"
+msgstr "Título para OG"
+
+#: includes/class-translation-manager.php:233
+#: languages/translatepress-multilingual.catalog.php:170
+msgid "String List"
+msgstr "Lista de cadenas"
+
+#: includes/class-translation-manager.php:232
+#: languages/translatepress-multilingual.catalog.php:169
+msgid "Meta Information"
+msgstr "Metainformación"
+
+#: includes/class-translation-manager.php:1268
+#: languages/translatepress-multilingual.catalog.php:177
+msgid "Security check"
+msgstr "Revisión de seguridad"
+
+#: includes/class-translation-manager.php:451
+#: languages/translatepress-multilingual.catalog.php:176
+msgid "Translate Page"
+msgstr "Traduce la página"
+
+#: includes/string-translation/class-string-translation.php:92
+#: includes/class-translation-manager.php:49
+msgid "Sorry, you are not allowed to access this page."
+msgstr "Lo siento, no tienes permiso para acceder a ésta página."
+
+#: includes/class-settings.php:535
+#: languages/translatepress-multilingual.catalog.php:105
+msgid "License"
+msgstr "Licencia"
+
+#: includes/class-settings.php:476
+#: languages/translatepress-multilingual.catalog.php:101
+msgid "Current Language"
+msgstr "Idioma actual"
+
+#: includes/class-settings.php:30
+#: languages/translatepress-multilingual.catalog.php:92
+msgid "Only Flags"
+msgstr "Sólo banderas"
+
+#: includes/class-settings.php:29
+#: languages/translatepress-multilingual.catalog.php:91
+msgid "Flags with Short Language Names"
+msgstr "Banderas con nombres de idioma cortos"
+
+#: includes/class-settings.php:28
+#: languages/translatepress-multilingual.catalog.php:90
+msgid "Flags with Full Language Names"
+msgstr "Banderas con nombres de idioma completos"
+
+#: includes/class-settings.php:27
+#: languages/translatepress-multilingual.catalog.php:89
+msgid "Short Language Names"
+msgstr "Nombres de idioma cortos"
+
+#: includes/class-settings.php:26
+#: languages/translatepress-multilingual.catalog.php:88
+msgid "Full Language Names"
+msgstr "Nombres de idioma completos"
+
+#: languages/translatepress-multilingual.catalog.php:30
+msgid "Allow this user to translate the website."
+msgstr "Permite a este usuario traducir la web."
+
+#: includes/class-translation-manager.php:154
+#: languages/translatepress-multilingual.catalog.php:159
+msgid "Supported By Real People"
+msgstr "Asistencia ofrecida por gente real"
+
+#: includes/class-translation-manager.php:143
+#: languages/translatepress-multilingual.catalog.php:149
+msgid "However, you can still use TranslatePress to <strong style=\"background: #f5fb9d;\">modify gettext strings</strong> available in your page."
+msgstr "De todas maneras, puedes seguir utilizando TranslatePress para <strong style=\"background: #f5fb9d;\">modificar las cadenas de gettext</strong> disponibles en tu página."
+
+#: includes/class-translation-manager.php:104
+#: languages/translatepress-multilingual.catalog.php:118
+msgid "You have unsaved changes!"
+msgstr "¡Tienes cambios sin guardar!"
+
+#: partials/main-settings-page.php:101
+#: languages/translatepress-multilingual.catalog.php:283
+msgid "Floating language selection"
+msgstr "Selección de idioma flotante"
+
+#: partials/main-settings-page.php:96
+msgid "Go to  %1$s Appearance -> Menus%2$s to add languages to the Language Switcher in any menu."
+msgstr "Ve a %1$s Apariencia -> Menús%2$s para añadir idiomas al selector de idiomas de cualquier menú."
+
+#: partials/main-settings-page.php:84
+#: languages/translatepress-multilingual.catalog.php:279
+msgid "Use shortcode on any page or widget."
+msgstr "Utiliza el shortcode en cualquier página o widget."
+
+#: partials/main-settings-page.php:70
+#: languages/translatepress-multilingual.catalog.php:276
+msgid "Select Yes if you want to force custom links without language encoding to keep the currently selected language."
+msgstr "Elige Sí si quieres forzar los enlaces personalizados sin codificación de idioma para mantener el idioma elegido actual."
+
+#: partials/main-settings-page.php:37
+#: languages/translatepress-multilingual.catalog.php:271
+msgid "Native language name"
+msgstr "Nombre nativo del idioma"
+
+#: partials/main-settings-language-selector.php:59
+#: languages/translatepress-multilingual.catalog.php:259
+msgid "Select the language you wish to make your website available in."
+msgstr "Elige el idioma que quieres tener disponible en tu web."
+
+#: languages/translatepress-multilingual.catalog.php:26
+msgid "Select the languages you wish to make your website available in."
+msgstr "Elige los idiomas que quieres tener disponibles en tu web."
+
+#: partials/main-settings-language-selector.php:48
+#: languages/translatepress-multilingual.catalog.php:24
+msgid "Choose..."
+msgstr "Elige..."
+
+#: includes/class-install-plugins.php:34 includes/class-settings.php:162
+#: languages/translatepress-multilingual.catalog.php:21
+msgid "Active"
+msgstr "Activo"
+
+#: includes/class-translation-manager.php:438 includes/class-settings.php:522
+#: languages/translatepress-multilingual.catalog.php:103
+msgid "Translate Site"
+msgstr "Traducir el sitio "
+
+#: includes/google-translate/functions.php:5
+#: languages/translatepress-multilingual.catalog.php:382
+msgid "Google Translate v2"
+msgstr "Google Translate v2"
+
+#: partials/main-settings-language-selector.php:75
+#: languages/translatepress-multilingual.catalog.php:262
+msgid "Not only are you getting extra features and premium support, but you also help fund the future development of TranslatePress."
+msgstr "No es sólo que tengas funcionalidades extras y soporte premium, también estarás ayudando al desarrollo futuro de TranslatePress."
+
+#: partials/addons-settings-page.php:97 partials/addons-settings-page.php:111
+#: languages/translatepress-multilingual.catalog.php:229
+msgid "Learn More"
+msgstr "Aprender más"
+
+#: includes/advanced-settings/exclude-gettext-strings.php:9
+#: languages/translatepress-multilingual.catalog.php:355
+msgid "Gettext String"
+msgstr "Cadena gettext"

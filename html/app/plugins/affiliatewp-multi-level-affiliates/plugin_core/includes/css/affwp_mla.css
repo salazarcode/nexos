@@ -1,0 +1,23 @@
+/* CSS Document */
+
+/***** Admin *****/
+.matrix_group_heading {
+	background-color: #B9B9B9;
+    color: #FFFFFF;
+    text-transform: uppercase;
+    padding: 5px 0px 5px 20px;
+    margin-top: 0px;
+}
+
+.affwp_mla_product_settings.edd p {
+	padding: 3px 0px 3px 0px;
+}
+.affwp_mla_product_settings.edd label {
+	float: left;
+	width: 150px;
+	font-weight: 600;
+}
+
+/*#affwp_mla_product_variation_settings .options {
+    border: none!important
+}*/

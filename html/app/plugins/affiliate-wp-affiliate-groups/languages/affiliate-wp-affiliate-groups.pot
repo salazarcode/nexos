@@ -1,0 +1,214 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: AffiliateWP - Groups\n"
+"POT-Creation-Date: 2020-05-25 06:30+1000\n"
+"PO-Revision-Date: 2018-06-01 14:32+1000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: affiliate-wp-affiliate-groups.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/class-licenses.php:260
+msgid "Your license is valid"
+msgstr ""
+
+#: includes/class-licenses.php:271
+msgid "Your license is invalid"
+msgstr ""
+
+#: includes/class-licenses.php:276
+msgid ""
+"Your license has expired. Plugin features remain enabled but auto updates "
+"are disabled<br><a href=\"https://www.clickstudio.com.au/checkout/?"
+"edd_license_key="
+msgstr ""
+
+#: includes/class-licenses.php:284
+msgid "Enter your license key and save the settings to activate."
+msgstr ""
+
+#: includes/class-licenses.php:290
+msgid ""
+"A licence was previously deactivated for this site. License activation is "
+"now required to restore functionality."
+msgstr ""
+
+#: includes/class-licenses.php:298
+msgid ""
+"Deactivating your license on this site will disable all plugin features. Be "
+"careful!"
+msgstr ""
+
+#: includes/class-licenses.php:302
+msgid "An activated license is required to enable plugin features."
+msgstr ""
+
+#: includes/class-updater.php:243
+#, php-format
+msgid ""
+"There is a new version of %1$s available. %2$sView version %3$s details%4$s."
+msgstr ""
+
+#: includes/class-updater.php:251
+#, php-format
+msgid ""
+"There is a new version of %1$s available. %2$sView version %3$s details%4$s "
+"or %5$supdate now%6$s."
+msgstr ""
+
+#: includes/class-updater.php:442
+msgid "You do not have permission to install plugin updates"
+msgstr ""
+
+#: includes/class-updater.php:442
+msgid "Error"
+msgstr ""
+
+#: plugin_core/class-plugin-base.php:800 plugin_core/class-plugin-base.php:901
+msgid "Affiliate Groups"
+msgstr ""
+
+#: plugin_core/class-plugin-base.php:824 plugin_core/class-plugin-base.php:932
+msgid ""
+"If an affiliate is a member of multiple groups, the highest rate will apply."
+"<br>Group rates have priority over the 'Referral Rate' set above"
+msgstr ""
+
+#: plugin_core/class-plugin-base.php:1169 plugin_core/class-settings.php:63
+msgid "Groups"
+msgstr ""
+
+#: plugin_core/class-settings.php:165
+msgid "License Settings"
+msgstr ""
+
+#: plugin_core/class-settings.php:171
+msgid "License Key"
+msgstr ""
+
+#: plugin_core/class-settings.php:196
+msgid "Auto Grouping Settings"
+msgstr ""
+
+#: plugin_core/class-settings.php:203
+msgid "Enable auto grouping"
+msgstr ""
+
+#: plugin_core/class-settings.php:209
+msgid "Auto Grouping Mode"
+msgstr ""
+
+#: plugin_core/class-settings.php:212
+msgid "The groups selected in the list below"
+msgstr ""
+
+#: plugin_core/class-settings.php:213
+msgid "The same groups as the referrer"
+msgstr ""
+
+#: plugin_core/class-settings.php:214
+msgid "The same groups as the referrer - Fallback to list below if no referrer"
+msgstr ""
+
+#: plugin_core/class-settings.php:221
+msgid ""
+"Select which groups new affiliates will be added to (when auto grouping is "
+"enabled)"
+msgstr ""
+
+#: plugin_core/class-settings.php:221
+msgid "Does not apply when adding new affiliates manually"
+msgstr ""
+
+#: plugin_core/class-settings.php:269
+msgid "Group name"
+msgstr ""
+
+#: plugin_core/class-settings.php:275
+msgid "Rate type"
+msgstr ""
+
+#: plugin_core/class-settings.php:278
+msgid "None"
+msgstr ""
+
+#: plugin_core/class-settings.php:279
+msgid "Percentage"
+msgstr ""
+
+#: plugin_core/class-settings.php:280
+msgid "Flat"
+msgstr ""
+
+#: plugin_core/class-settings.php:286
+msgid "Rate value"
+msgstr ""
+
+#: plugin_core/class-settings.php:292
+msgid "Multi Level Affilates Mode"
+msgstr ""
+
+#: plugin_core/class-settings.php:293
+msgid ""
+"If enabled, the MLA rates may override the group's rates depending on your "
+"configuration"
+msgstr ""
+
+#: plugin_core/class-settings.php:294
+msgid "All MLA rates are configured on the MLA tab"
+msgstr ""
+
+#: plugin_core/class-settings.php:298
+msgid "Enabled - Use Global Matrix Settings"
+msgstr ""
+
+#: plugin_core/class-settings.php:299
+msgid "Enabled - Set Group Matrix Settings"
+msgstr ""
+
+#: plugin_core/class-settings.php:300
+msgid "Disabled"
+msgstr ""
+
+#: plugin_core/class-settings.php:343 plugin_core/class-settings.php:362
+#: plugin_core/class-settings.php:459
+msgid "Group"
+msgstr ""
+
+#: plugin_core/class-settings.php:468
+msgid "Create New Group"
+msgstr ""
+
+#: plugin_core/class-settings.php:486
+msgid "Delete Group"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "AffiliateWP - Groups"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://clickstudio.com.au"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Set options and rates on a group by group basis"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Click Studio"
+msgstr ""

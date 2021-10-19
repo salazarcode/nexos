@@ -1,0 +1,1557 @@
+# Translation of Plugins - Advanced Custom Fields: Extended - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - Advanced Custom Fields: Extended - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-03-25 19:40:13+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - Advanced Custom Fields: Extended - Stable (latest release)\n"
+
+#: includes/modules/options-pages.php:556
+msgid "This options page slug already exists"
+msgstr "Este slug de la página de opciones ya existe"
+
+#: includes/modules/options-pages.php:24
+msgid "Menu slug"
+msgstr "Slug del menú"
+
+#: includes/field-groups/field-groups-local.php:72
+msgid "Local"
+msgstr "Local"
+
+#: includes/modules/forms-front.php:18
+msgid "Validate Email"
+msgstr "Validar el correo electrónico"
+
+#: includes/fields/field-advanced-link.php:290
+#: includes/fields/field-advanced-link.php:336
+msgid "Term"
+msgstr "Término"
+
+#: includes/fields/field-code-editor.php:129
+msgid "Sets the textarea max height"
+msgstr "Establece la altura máxima del área de texto"
+
+#: includes/fields/field-code-editor.php:128
+msgid "Max rows"
+msgstr "Máximo de filas"
+
+#: includes/fields/field-post-statuses.php:217
+#: includes/fields/field-taxonomies.php:217
+#: includes/fields/field-user-roles.php:203
+#: includes/fields/field-post-types.php:217
+#: includes/fields/field-select.php:111
+msgid "Appears within the search input"
+msgstr "Aparece dentro de la entrada de búsqueda"
+
+#: includes/fields/field-post-statuses.php:216
+#: includes/fields/field-taxonomies.php:216
+#: includes/fields/field-user-roles.php:202
+#: includes/fields/field-post-types.php:216
+#: includes/fields/field-select.php:110
+msgid "Search Input Placeholder"
+msgstr "Marcador de posición de la entrada de búsqueda"
+
+#: includes/field-groups/field-group-hide-on-screen.php:41
+msgid "Block Editor"
+msgstr "Editor de bloques"
+
+#: includes/core/helpers.php:1279
+msgid "Custom Fields"
+msgstr "Campos personalizados"
+
+#: includes/fields/field-clone.php:114 includes/fields/field-group.php:99
+msgid "Choose the modal size"
+msgstr "Elige el tamaño de la ventana emergente"
+
+#: includes/fields/field-clone.php:111 includes/fields/field-group.php:96
+msgid "Edition modal: Size"
+msgstr "Editar ventana emergente: Tamaño"
+
+#: includes/fields/field-clone.php:93 includes/fields/field-group.php:78
+msgid "Edition modal: Text button"
+msgstr "Editar ventana emergente: Texto del botón"
+
+#: includes/fields/field-clone.php:76 includes/fields/field-group.php:61
+msgid "Display close button"
+msgstr "Mostrar el botón de cierre"
+
+#: includes/fields/field-clone.php:73 includes/fields/field-group.php:58
+msgid "Edition modal: Close button"
+msgstr "Editar ventana emergente: Botón Cerrar"
+
+#: includes/fields/field-flexible-content-async.php:40
+msgid "Disable the native ACF Layout Title Ajax call. More informations: <a href=\"https://www.advancedcustomfields.com/resources/acf-fields-flexible_content-layout_title/\" target=\"_blank\">ACF documentation</a>."
+msgstr "Desactiva la llamada nativa de ACF que muestra el título Ajax del diseño de contenido flexible. Más información en: <a href=\"https://www.advancedcustomfields.com/resources/acf-fields-flexible_content-layout_title/\" target=\"_blank\">Documentación de ACF</a>."
+
+#: includes/fields/field-flexible-content-controls.php:74
+msgid "Show advanced Flexible Content settings"
+msgstr "Mostrar los ajustes avanzados de contenido flexible"
+
+#: includes/fields/field-flexible-content-controls.php:71
+msgid "Advanced Flexible Content"
+msgstr "Contenido flexible avanzado"
+
+#: includes/locations/post-type-archive.php:117
+msgid "Permalink:"
+msgstr "Enlace permanente:"
+
+#: includes/fields/field-flexible-content-preview.php:267
+msgid "Edit layout"
+msgstr "Editar diseño"
+
+#: includes/fields/field-flexible-content-controls.php:198
+msgid "Click to toggle"
+msgstr "Haz clic para alternar"
+
+#: includes/fields/field-flexible-content-controls.php:197
+msgid "Remove layout"
+msgstr "Eliminar diseño"
+
+#: includes/fields/field-flexible-content-controls.php:195
+msgid "Add layout"
+msgstr "Añadir diseño"
+
+#: includes/fields/field-flexible-content.php:463
+msgid "Drag to reorder"
+msgstr "Arrastrar para reordenar"
+
+#: includes/fields/field-flexible-content-actions.php:353
+msgid "Paste layouts"
+msgstr "Pegar diseños"
+
+#: includes/fields/field-flexible-content-actions.php:352
+msgid "Copy layouts"
+msgstr "Copiar diseños"
+
+#: includes/fields/field-flexible-content.php:273
+msgid "Click the \"%s\" button below to start creating your layout"
+msgstr "Haz clic a continuación en el botón «%s» para comenzar a crear tu diseño"
+
+#: includes/fields/field-flexible-content-async.php:63
+msgid "Add layouts using Ajax method. This setting increase performance on complex Flexible Content"
+msgstr "Añadir diseños con el método Ajax. Esta configuración aumenta el rendimiento en contenidos flexibles complejos"
+
+#: includes/fields/field-flexible-content-settings.php:48
+msgid "Choose a field group to clone and to be used as a configuration modal"
+msgstr "Elige un grupo de campos para clonar y úsalo como configuración de tu ventana emergente"
+
+#: includes/admin/tools/forms-import.php:19
+#: includes/admin/tools/forms-import.php:20
+msgid "Import Forms"
+msgstr "Importar formularios"
+
+#: includes/admin/tools/forms-export.php:28
+msgid "No forms selected"
+msgstr "No se han seleccionado formularios"
+
+#: includes/admin/tools/forms-export.php:20
+msgid "Select Forms"
+msgstr "Seleccionar formularios"
+
+#: includes/admin/tools/forms-export.php:18
+#: includes/admin/tools/forms-export.php:19
+msgid "Export Forms"
+msgstr "Exportar formularios"
+
+#: includes/admin/tools/field-groups-export.php:36
+msgid "Exported 1 field group."
+msgid_plural "Exported %s field groups."
+msgstr[0] "Exportado 1 grupo de campos."
+msgstr[1] "Exportados %s grupos de campos."
+
+#: includes/admin/tools/module-export.php:84
+msgid "Generate PHP"
+msgstr "Generar PHP"
+
+#: includes/field-groups/field-groups.php:132
+#: includes/field-groups/field-groups.php:152
+msgid "PHP"
+msgstr "PHP"
+
+#: includes/modules/module.php:97
+msgid "Active <span class=\"count\">(%s)</span>"
+msgid_plural "Active <span class=\"count\">(%s)</span>"
+msgstr[0] "Activo <span class=\"count\">(%s)</span>"
+msgstr[1] "Activos <span class=\"count\">(%s)</span>"
+
+#: includes/fields/field-post-object.php:35
+msgid "New Post Arguments"
+msgstr "Nuevo argumento de entrada"
+
+#: includes/fields/field-post-object.php:30
+msgid "Save 'custom' values as new post"
+msgstr "Guardar valores «personalizados» como nueva entrada"
+
+#: includes/fields/field-advanced-link.php:183
+msgid "Filter by Taxonomy"
+msgstr "Filtrar por taxonomía"
+
+#: includes/fields/field-advanced-link.php:170
+msgid "Filter by Post Type"
+msgstr "Filtrar por tipo de contenido"
+
+#: includes/fields/field-taxonomy-terms.php:977
+msgid "Load value from posts terms"
+msgstr "Valor para cargar los términos de entrada"
+
+#: includes/fields/field-taxonomy-terms.php:976
+msgid "Load Terms"
+msgstr "Carga de términos"
+
+#: includes/fields/field-taxonomy-terms.php:968
+msgid "Connect selected terms to the post"
+msgstr "Conecta los términos seleccionados a la entrada"
+
+#: includes/fields/field-taxonomy-terms.php:967
+msgid "Save Terms"
+msgstr "Guardar términos"
+
+#: includes/fields/field-textarea.php:14
+msgid "Switch font family to monospace and allow tab indent. For a more advanced code editor, please use the <code>Code Editor</code> field type"
+msgstr "Cambia la familia de fuentes a monoespacio y permite sangría de pestaña. Para un editor de código más avanzado, utiliza el tipo de campo <code>Editor de código</code>"
+
+#: includes/fields/field-code-editor.php:120
+msgid "Sets the textarea height"
+msgstr "Establece la altura del área de texto"
+
+#: includes/fields/field-code-editor.php:119
+msgid "Rows"
+msgstr "Filas"
+
+#: includes/fields/field-code-editor.php:102
+msgid "Indent Unit"
+msgstr "Unidad de sangría"
+
+#: includes/fields/field-code-editor.php:93
+msgid "Show Lines"
+msgstr "Mostrar las líneas"
+
+#: includes/fields/field-code-editor.php:87
+msgid "PHP (plain)"
+msgstr "PHP (simple)"
+
+#: includes/fields/field-code-editor.php:86
+msgid "PHP (mixed)"
+msgstr "PHP (mixto)"
+
+#: includes/fields/field-code-editor.php:85
+msgid "CSS"
+msgstr "CSS"
+
+#: includes/fields/field-code-editor.php:84
+msgid "JavaScript"
+msgstr "JavaScript"
+
+#: includes/fields/field-code-editor.php:83
+msgid "Text/HTML"
+msgstr "Texto / HTML"
+
+#: includes/fields/field-code-editor.php:78
+msgid "Editor mode"
+msgstr "Modo editor"
+
+#: includes/fields/field-post-statuses.php:176
+#: includes/fields/field-code-editor.php:69
+#: includes/fields/field-taxonomies.php:176
+#: includes/fields/field-user-roles.php:162
+#: includes/fields/field-post-types.php:176 includes/fields/field-select.php:68
+msgid "Placeholder"
+msgstr "Marcador de posición"
+
+#: includes/fields/field-code-editor.php:16
+msgid "Code Editor"
+msgstr "Editor de código"
+
+#: includes/fields/field-taxonomy-terms.php:750
+msgid "Terms_level"
+msgstr "Terms_level"
+
+#: includes/fields/field-taxonomy-terms.php:744
+msgid "All terms"
+msgstr "Todos los términos"
+
+#: includes/fields/field-taxonomy-terms.php:735
+msgid "Allow Terms"
+msgstr "Permitir términos"
+
+#: includes/fields/field-clone.php:31 includes/fields/field-group.php:30
+msgid "Enable better CSS integration: remove borders and padding"
+msgstr "Activar una mejor integración de CSS: eliminar bordes y relleno"
+
+#: includes/fields/field-clone.php:28 includes/fields/field-group.php:27
+msgid "Seamless Style"
+msgstr "Estilo fluido"
+
+#: includes/locations/post-type-list.php:378
+msgid "Post Type List"
+msgstr "Lista de tipos de contenido"
+
+#: includes/locations/post-type-archive.php:197
+msgid "Post Type Archive"
+msgstr "Archivo de tipos de contenido"
+
+#: includes/locations/taxonomy-list.php:369
+msgid "Taxonomy List"
+msgstr "Lista de taxonomías"
+
+#: includes/field-groups/field-groups.php:93
+#: includes/field-groups/field-groups.php:104
+msgid "Source"
+msgstr "Fuente"
+
+#: includes/field-groups/field-group-meta.php:109
+msgid "View raw field group data, for development use"
+msgstr "Ver los datos en bruto del grupo de campos, para su uso en el desarrollo"
+
+#: includes/field-groups/field-group-meta.php:47
+msgid "+ Meta"
+msgstr "+ Meta"
+
+#: includes/field-groups/field-group-advanced.php:47
+msgid "Enable advanced fields settings & validation"
+msgstr "Activar los ajustes avanzados y la validación de los campos"
+
+#: includes/field-groups/field-group-meta.php:28
+msgid "Field group"
+msgstr "Grupo de campos"
+
+#: includes/admin/tools/field-groups-local.php:202
+#: includes/admin/tools/module-export.php:133
+msgid "Copied"
+msgstr "Copiado"
+
+#: includes/admin/tools/field-groups-local.php:174
+#: includes/admin/tools/module-export.php:105
+msgid "Copy to clipboard"
+msgstr "Copiar al portapapeles"
+
+#: includes/admin/tools/field-groups-local.php:140
+msgid "The following code can be used to register a local version of the selected field group(s). A local field group can provide many benefits such as faster load times, version control & dynamic fields/settings. Simply copy and paste the following code to your theme's functions.php file or include it within an external file."
+msgstr "El siguiente código se puede usar para registrar una versión local de los grupos de campos seleccionados. Un grupo de campos local puede proporcionar muchos beneficios, como tiempos de carga más rápidos, control de versiones y campos/ajustes dinámicos. Simplemente copia y pega el siguiente código en el archivo functions.php de tu tema o inclúyelo en un archivo externo."
+
+#: includes/admin/tools/field-groups-local.php:50
+msgid "No field group selected"
+msgstr "Ningún grupo de campos seleccionado"
+
+#: includes/admin/tools/field-groups-local.php:28
+msgid "Imported 1 field group"
+msgid_plural "Imported %s field groups"
+msgstr[0] "Importado 1 grupo de campos"
+msgstr[1] "Importados %s grupos de campos"
+
+#: includes/admin/tools/field-groups-local.php:13
+msgid "Export Local Field Groups"
+msgstr "Exportar grupos de campos locales"
+
+#: includes/fields-settings/settings.php:127
+msgid "+"
+msgstr "+"
+
+#: includes/fields-settings/settings.php:90
+msgid "Add settings"
+msgstr "Añadir ajustes"
+
+#: includes/fields-settings/settings.php:88
+msgid "Change field settings based on location"
+msgstr "Cambiar los ajustes del campo según la ubicación"
+
+#: includes/field-groups/field-group-advanced.php:42
+msgid "Advanced settings"
+msgstr "Ajustes avanzados"
+
+#: includes/fields-settings/validation.php:146
+msgid "Add validation"
+msgstr "Añadir validación"
+
+#: includes/fields-settings/validation.php:141
+msgid "Advanced Validation"
+msgstr "Validación avanzada"
+
+#: includes/modules/forms.php:28
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: includes/modules/forms.php:27
+msgid "Actions"
+msgstr "Acciones"
+
+#: includes/modules/forms.php:26
+msgid "Field groups"
+msgstr "Grupos de campos"
+
+#: includes/modules/forms-helpers.php:240
+#: includes/modules/forms-helpers.php:269 includes/modules/module.php:485
+msgid "no label"
+msgstr "sin etiqueta"
+
+#: includes/modules/forms.php:140 includes/field-groups/field-groups.php:94
+#: includes/field-groups/field-groups.php:105
+#: includes/field-groups/field-groups.php:146
+msgid "Fields"
+msgstr "Campos"
+
+#: includes/modules/forms.php:88
+msgid "Form"
+msgstr "Formulario"
+
+#: includes/modules/forms-action-user.php:693
+msgid "Nicename may not be longer than 50 characters."
+msgstr "El slug de usuario no puede ser mayor de 50 caracteres."
+
+#: includes/modules/forms-action-user.php:685
+msgid "Sorry, that username already exists!"
+msgstr "Lo siento, ¡ese nombre de usuario ya existe!"
+
+#: includes/modules/forms-action-user.php:679
+msgid "Username may not be longer than 60 characters."
+msgstr "El nombre de usuario no puede ser mayor de 60 caracteres."
+
+#: includes/modules/forms-action-user.php:675
+msgid "Cannot create a user with an empty login name."
+msgstr "No se puede crear un usuario con un nombre de acceso vacío."
+
+#: includes/modules/forms.php:1503
+msgid "Post updated"
+msgstr "Entrada actualizada"
+
+#: includes/modules/forms-front.php:70
+msgid "Spam Detected"
+msgstr "Spam detectado"
+
+#: includes/modules/dev.php:344
+msgid "empty"
+msgstr "vacío"
+
+#: includes/fields/field-post-statuses.php:84
+msgid "Post status name"
+msgstr "Nombre del estado de la entrada"
+
+#: includes/fields/field-post-statuses.php:83
+msgid "Post status object"
+msgstr "Estado del objeto de la entrada"
+
+#: includes/fields/field-post-statuses.php:51
+msgid "All post statuses"
+msgstr "Todos los estados de entradas"
+
+#: includes/fields/field-post-statuses.php:43
+msgid "Allow Post Status"
+msgstr "Permitir estado de la entrada"
+
+#: includes/fields/field-post-statuses.php:13
+msgid "Post Statuses"
+msgstr "Estados de las entradas"
+
+#: includes/fields/field-textarea.php:11
+msgid "Code mode"
+msgstr "Modo de código"
+
+#: includes/fields/field-advanced-link.php:178
+#: includes/fields/field-post-types.php:51
+msgid "All post types"
+msgstr "Todos los tipos de contenido"
+
+#: includes/fields/field-post-types.php:43
+msgid "Allow Post Type"
+msgstr "Permitir tipos de contenido"
+
+#: includes/fields/field-hidden.php:44
+msgid "Default value in the hidden input"
+msgstr "Valor por defecto en la entrada oculta"
+
+#: includes/fields/field-hidden.php:13
+msgid "Hidden"
+msgstr "Oculto"
+
+#: includes/fields/field-user-roles.php:50
+msgid "All user roles"
+msgstr "Todos los perfiles de usuario"
+
+#: includes/fields/field-user-roles.php:42
+msgid "Allow User Role"
+msgstr "Permitir perfiles de usuario"
+
+#: includes/fields/field-user-roles.php:13
+msgid "User Roles"
+msgstr "Perfiles de usuario"
+
+#: includes/fields/field-file.php:101 includes/fields/field-image.php:72
+msgid "Choose the uploader type"
+msgstr "Elige el tipo de cargador"
+
+#: includes/fields/field-file.php:98 includes/fields/field-image.php:69
+msgid "Uploader type"
+msgstr "Tipo de cargador"
+
+#: includes/fields/field-taxonomy-terms.php:792
+msgid "Term ID"
+msgstr "ID de término"
+
+#: includes/fields/field-taxonomy-terms.php:791
+msgid "Term name"
+msgstr "Nombre del término"
+
+#: includes/fields/field-taxonomy-terms.php:790
+msgid "Term object"
+msgstr "Objeto del término"
+
+#: includes/fields/field-taxonomy-terms.php:16
+msgid "Taxonomy Terms"
+msgstr "Términos de taxonomía"
+
+#: includes/fields/field-recaptcha.php:235
+#: includes/fields/field-recaptcha.php:258
+#: includes/fields/field-recaptcha.php:265
+msgid "An error has occured."
+msgstr "Ha ocurrido un error."
+
+#: includes/fields/field-recaptcha.php:228
+msgid "reCaptcha has expired."
+msgstr "reCAPTCHA ha caducado."
+
+#: includes/fields/field-recaptcha.php:114
+msgid "Enter the secret key. <a href=\"https://www.google.com/recaptcha/admin\" target=\"_blank\">reCaptcha API Admin</a>"
+msgstr "Introduce la clave secreta. <a href=\"https://www.google.com/recaptcha/admin\" target=\"_blank\">Administración de la API de reCAPTCHA</a>"
+
+#: includes/fields/field-recaptcha.php:113
+msgid "Secret key"
+msgstr "Clave secreta"
+
+#: includes/fields/field-recaptcha.php:106
+msgid "Enter the site key. <a href=\"https://www.google.com/recaptcha/admin\" target=\"_blank\">reCaptcha API Admin</a>"
+msgstr "Introduce la clave del sitio. <a href=\"https://www.google.com/recaptcha/admin\" target=\"_blank\">Administración de la API de reCAPTCHA</a>"
+
+#: includes/fields/field-recaptcha.php:105
+msgid "Site key"
+msgstr "Clave del sitio"
+
+#: includes/fields/field-recaptcha.php:88
+msgid "Hide the reCaptcha logo"
+msgstr "Ocultar el logotipo de reCAPTCHA"
+
+#: includes/fields/field-recaptcha.php:87
+msgid "Hide logo"
+msgstr "Ocultar el logotipo"
+
+#: includes/fields/field-recaptcha.php:72
+msgid "Compact"
+msgstr "Compacto"
+
+#: includes/fields/field-recaptcha.php:71
+msgid "Normal"
+msgstr "Normal"
+
+#: includes/fields/field-recaptcha.php:67
+msgid "Select the reCaptcha size"
+msgstr "Selecciona el tamaño de reCAPTCHA"
+
+#: includes/fields/field-recaptcha.php:66
+msgid "Size"
+msgstr "Tamaño"
+
+#: includes/fields/field-recaptcha.php:51
+msgid "Dark"
+msgstr "Oscuro"
+
+#: includes/fields/field-recaptcha.php:50
+msgid "Light"
+msgstr "Claro"
+
+#: includes/fields/field-recaptcha.php:46
+msgid "Select the reCaptcha theme"
+msgstr "Selecciona el tema de reCAPTCHA"
+
+#: includes/fields/field-recaptcha.php:45
+msgid "Theme"
+msgstr "Tema"
+
+#: includes/fields/field-recaptcha.php:39
+msgid "reCaptcha V3"
+msgstr "reCAPTCHA v3"
+
+#: includes/fields/field-recaptcha.php:38
+msgid "reCaptcha V2"
+msgstr "reCAPTCHA v2"
+
+#: includes/fields/field-recaptcha.php:34
+msgid "Select the reCaptcha version"
+msgstr "Selecciona la versión de reCAPTCHA"
+
+#: includes/fields/field-recaptcha.php:33
+msgid "Version"
+msgstr "Versión"
+
+#: includes/fields/field-forms.php:94
+msgid "Form name"
+msgstr "Nombre del formulario"
+
+#: includes/fields/field-forms.php:93
+msgid "Form ID"
+msgstr "ID del formulario"
+
+#: includes/fields/field-forms.php:61
+msgid "All forms"
+msgstr "Todos los formularios"
+
+#: includes/fields/field-forms.php:53
+msgid "Allow Forms"
+msgstr "Permitir formularios"
+
+#: includes/fields/field-forms.php:13 includes/modules/forms.php:84
+#: includes/modules/forms.php:85 includes/modules/forms.php:87
+#: includes/modules/forms.php:89 includes/locations/taxonomy-list.php:367
+msgid "Forms"
+msgstr "Formularios"
+
+#: includes/fields/field-clone.php:96 includes/fields/field-group.php:81
+msgid "Text displayed in the edition modal button"
+msgstr "Texto mostrado en el botón emergente de edición"
+
+#: includes/fields/field-clone.php:56 includes/fields/field-group.php:50
+msgid "Edit fields in a modal"
+msgstr "Editar campos en una ventana emergente"
+
+#: includes/fields/field-clone.php:53 includes/fields/field-group.php:47
+msgid "Edition modal"
+msgstr "Edición emergente"
+
+#: includes/fields/field-button.php:116
+msgid "Ajax call"
+msgstr "Llamada Ajax"
+
+#: includes/fields/field-button.php:108
+msgid "Custom HTML after the button"
+msgstr "HTML personalizado después del botón"
+
+#: includes/fields/field-button.php:107
+msgid "After HTML"
+msgstr "Después del HTML"
+
+#: includes/fields/field-button.php:99
+msgid "Custom HTML before the button"
+msgstr "HTML personalizado antes del botón"
+
+#: includes/fields/field-button.php:98
+msgid "Before HTML"
+msgstr "Antes del HTML"
+
+#: includes/fields/field-button.php:92
+msgid "id"
+msgstr "id"
+
+#: includes/fields/field-button.php:83
+msgid "class"
+msgstr "clase"
+
+#: includes/fields/field-button.php:66
+msgid "Choose the button type"
+msgstr "Elige el tipo de botón"
+
+#: includes/fields/field-button.php:57
+msgid "Set a default button value"
+msgstr "Establecer un valor de botón por defecto"
+
+#: includes/fields/field-forms.php:339
+msgid "Save 'custom' values to the field's choices"
+msgstr "Guardar los valores «personalizados» en las opciones del campo"
+
+#: includes/fields/field-forms.php:334
+msgid "Save Custom"
+msgstr "Guardar personalizado"
+
+#: includes/fields/field-post-statuses.php:310
+#: includes/fields/field-forms.php:319 includes/fields/field-taxonomies.php:310
+#: includes/fields/field-user-roles.php:296
+#: includes/fields/field-post-types.php:310 includes/fields/field-select.php:54
+msgid "Allow 'custom' values to be added"
+msgstr "Permite añadir valores «personalizados»"
+
+#: includes/fields/field-post-statuses.php:305
+#: includes/fields/field-forms.php:314 includes/fields/field-taxonomies.php:305
+#: includes/fields/field-user-roles.php:291
+#: includes/fields/field-post-types.php:305 includes/fields/field-select.php:49
+msgid "Allow Custom"
+msgstr "Permitir personalizado"
+
+#: includes/fields/field-post-statuses.php:288
+#: includes/fields/field-forms.php:297 includes/fields/field-taxonomies.php:288
+#: includes/fields/field-user-roles.php:274
+#: includes/fields/field-taxonomy-terms.php:950
+#: includes/fields/field-post-types.php:288
+msgid "Prepend an extra checkbox to toggle all choices"
+msgstr "Anteponer una casilla de verificación extra para cambiar todas las opciones"
+
+#: includes/fields/field-post-statuses.php:287
+#: includes/fields/field-forms.php:296 includes/fields/field-taxonomies.php:287
+#: includes/fields/field-user-roles.php:273
+#: includes/fields/field-taxonomy-terms.php:949
+#: includes/fields/field-post-types.php:287
+msgid "Toggle"
+msgstr "Conmutador"
+
+#: includes/fields/field-post-statuses.php:265
+#: includes/fields/field-forms.php:274 includes/fields/field-taxonomies.php:265
+#: includes/fields/field-user-roles.php:251
+#: includes/fields/field-taxonomy-terms.php:927
+#: includes/fields/field-post-types.php:265
+msgid "Horizontal"
+msgstr "Horizontal"
+
+#: includes/fields/field-post-statuses.php:264
+#: includes/fields/field-forms.php:273 includes/fields/field-taxonomies.php:264
+#: includes/fields/field-user-roles.php:250
+#: includes/fields/field-taxonomy-terms.php:926
+#: includes/fields/field-post-types.php:264
+msgid "Vertical"
+msgstr "Vertical"
+
+#: includes/fields/field-forms.php:248
+msgid "Save 'other' values to the field's choices"
+msgstr "Guardar «otros» valores en las opciones del campo"
+
+#: includes/fields/field-forms.php:243
+msgid "Save Other"
+msgstr "Guardar otro"
+
+#: includes/fields/field-post-statuses.php:244
+#: includes/fields/field-forms.php:228 includes/fields/field-taxonomies.php:244
+#: includes/fields/field-user-roles.php:230
+#: includes/fields/field-post-types.php:244
+msgid "Add 'other' choice to allow for custom values"
+msgstr "Añade la opción «otro» para permitir valores personalizados"
+
+#: includes/fields/field-post-statuses.php:239
+#: includes/fields/field-forms.php:223 includes/fields/field-taxonomies.php:239
+#: includes/fields/field-user-roles.php:225
+#: includes/fields/field-post-types.php:239
+msgid "Other"
+msgstr "Otro"
+
+#: includes/fields/field-post-statuses.php:153
+#: includes/fields/field-forms.php:200 includes/fields/field-taxonomies.php:153
+#: includes/fields/field-user-roles.php:139
+#: includes/fields/field-taxonomy-terms.php:897
+#: includes/fields/field-post-types.php:153
+msgid "Use AJAX to lazy load choices?"
+msgstr "¿Usar AJAX para las opciones de carga diferida?"
+
+#: includes/fields/field-post-statuses.php:134
+#: includes/fields/field-forms.php:181 includes/fields/field-taxonomies.php:134
+#: includes/fields/field-user-roles.php:120
+#: includes/fields/field-taxonomy-terms.php:799
+#: includes/fields/field-post-types.php:134
+msgid "Stylised UI"
+msgstr "UI estilizada"
+
+#: includes/fields/field-post-statuses.php:116
+#: includes/fields/field-forms.php:163 includes/fields/field-taxonomies.php:116
+#: includes/fields/field-user-roles.php:102
+#: includes/fields/field-taxonomy-terms.php:879
+#: includes/fields/field-post-types.php:116
+msgid "Select multiple values?"
+msgstr "¿Selecciona múltiples valores?"
+
+#: includes/fields/field-post-statuses.php:180
+#: includes/fields/field-post-statuses.php:220
+#: includes/fields/field-forms.php:130 includes/fields/field-taxonomies.php:180
+#: includes/fields/field-taxonomies.php:220
+#: includes/fields/field-user-roles.php:166
+#: includes/fields/field-user-roles.php:206
+#: includes/fields/field-taxonomy-terms.php:846
+#: includes/fields/field-post-types.php:180
+#: includes/fields/field-post-types.php:220 includes/fields/field-select.php:72
+msgctxt "verb"
+msgid "Select"
+msgstr "Seleccionar"
+
+#: includes/fields/field-post-statuses.php:91
+#: includes/fields/field-forms.php:101 includes/fields/field-taxonomies.php:91
+#: includes/fields/field-user-roles.php:77
+#: includes/fields/field-taxonomy-terms.php:817
+#: includes/fields/field-post-types.php:91
+msgid "Allow Null?"
+msgstr "¿Permitir nula?"
+
+#: includes/fields/field-post-statuses.php:71
+#: includes/fields/field-forms.php:81 includes/fields/field-taxonomies.php:71
+#: includes/fields/field-user-roles.php:70
+#: includes/fields/field-taxonomy-terms.php:778
+#: includes/fields/field-post-types.php:71
+msgid "Enter each default value on a new line"
+msgstr "Ingrese cada valor por defecto en una nueva línea"
+
+#: includes/fields/field-taxonomies.php:51
+#: includes/fields/field-advanced-link.php:191
+#: includes/fields/field-taxonomy-terms.php:650
+msgid "All taxonomies"
+msgstr "Todas las taxonomías"
+
+#: includes/fields/field-taxonomies.php:43
+#: includes/fields/field-taxonomy-terms.php:642
+msgid "Allow Taxonomy"
+msgstr "Permitir taxonomía"
+
+#: includes/fields/field-repeater.php:17
+msgid "Better row button integration"
+msgstr "Mejor integración de botón de fila"
+
+#: includes/fields/field-column.php:89
+msgid "Endpoint"
+msgstr "Variable"
+
+#: includes/fields/field-column.php:57
+msgid "Columns"
+msgstr "Columnas"
+
+#: includes/fields/field-column.php:13
+msgid "Column"
+msgstr "Columna"
+
+#: includes/fields/field-advanced-link.php:423
+msgid "Remove"
+msgstr "Eliminar"
+
+#: includes/fields/field-advanced-link.php:421
+msgid "Opens in a new window/tab"
+msgstr "Abre en una nueva ventana/pestaña"
+
+#: includes/fields/field-advanced-link.php:416
+msgid "Select Link"
+msgstr "Seleccionar enlace"
+
+#: includes/fields/field-advanced-link.php:369
+msgid "Open in an new window"
+msgstr "Abrir en una nueva ventana"
+
+#: includes/fields/field-advanced-link.php:367
+msgid "Target"
+msgstr "Objetivo"
+
+#: includes/fields/field-advanced-link.php:358
+msgid "Link text"
+msgstr "Texto del enlace"
+
+#: includes/fields/field-advanced-link.php:288
+#: includes/fields/field-advanced-link.php:297
+msgid "URL"
+msgstr "URL"
+
+#: includes/fields/field-advanced-link.php:283
+msgid "Type"
+msgstr "Tipo"
+
+#: includes/fields/field-advanced-link.php:289
+#: includes/fields/field-advanced-link.php:316
+#: includes/locations/post-type-archive.php:195
+#: includes/locations/post-type-list.php:376
+msgid "Post"
+msgstr "Publicar"
+
+#: includes/fields/field-advanced-link.php:15
+msgid "Advanced Link"
+msgstr "Enlace avanzado"
+
+#: includes/fields/field-flexible-content-preview.php:106
+msgid "Display a placeholder with a pencil icon, making edition easier"
+msgstr "Muestre un marcador de posición con un ícono de lápiz para facilitar la edición"
+
+#: includes/fields/field-flexible-content-preview.php:103
+msgid "Layouts Placeholder"
+msgstr "Diseños del marcador de posición"
+
+#: includes/fields/field-flexible-content-preview.php:55
+msgid "Set template, style & javascript files for each layouts. This setting is mandatory in order to use <code style=\"font-size:11px;\">get_flexible()</code> function. You must save the field group to apply this setting"
+msgstr "Establecer archivos de plantilla, estilo y javascript para cada diseño. Esta configuración es obligatoria para utilizar la función <code style=\"font-size:11px;\">get_flexible()</code> Debe guardar el grupo de campos para aplicar esta configuración"
+
+#: includes/fields/field-flexible-content.php:616
+#: includes/fields/field-flexible-content.php:622 includes/core/enqueue.php:98
+#: assets/js/acfe-field-group.js:125 assets/js/acfe-admin.js:183
+#: assets/js/acfe-input.js:620 assets/js/acfe-input.js:1629
+#: assets/js/acfe-input.js:2189 assets/js/acfe-input.js:2306
+#: assets/js/acfe-input.js:2375
+msgid "Close"
+msgstr "Cerrar"
+
+#: includes/fields/field-flexible-content-actions.php:370
+#: includes/fields/field-post-statuses.php:258
+#: includes/fields/field-forms.php:267 includes/fields/field-taxonomies.php:258
+#: includes/fields/field-user-roles.php:244
+#: includes/fields/field-taxonomy-terms.php:920
+#: includes/fields/field-post-types.php:258
+msgid "Layout"
+msgstr "Diseño"
+
+#: includes/fields/field-flexible-content-preview.php:78
+msgid "Use layouts render settings to display a dynamic preview in the post administration"
+msgstr "Usa los ajuste de presentación de los diseños para mostrar una vista previa dinámica en la administración de entradas"
+
+#: includes/fields/field-flexible-content-thumbnail.php:49
+msgid "Set a thumbnail for each layouts. You must save the field group to apply this setting"
+msgstr "Establece una miniatura para cada diseño. Debes guardar el grupo de campos para aplicar este ajuste"
+
+#: includes/admin/tools/taxonomies-import.php:19
+#: includes/admin/tools/taxonomies-import.php:20
+msgid "Import Taxonomies"
+msgstr "Importar taxonomías"
+
+#: includes/admin/tools/block-types-import.php:19
+#: includes/admin/tools/block-types-import.php:20
+msgid "Import Block Types"
+msgstr "Importar tipos de bloques"
+
+#: includes/admin/tools/block-types-export.php:28
+msgid "No block types selected"
+msgstr "No hay tipos de bloques seleccionados"
+
+#: includes/admin/tools/block-types-export.php:20
+msgid "Select Block Types"
+msgstr "Seleccionar tipos de bloque"
+
+#: includes/admin/tools/block-types-export.php:18
+#: includes/admin/tools/block-types-export.php:19
+msgid "Export Block Types"
+msgstr "Exportar tipos de bloque"
+
+#: includes/admin/tools/post-types-export.php:28
+msgid "No post types selected"
+msgstr "No hay tipos de bloques seleccionados"
+
+#: includes/admin/tools/post-types-export.php:20
+msgid "Select Post Types"
+msgstr "Seleccionar tipos de contenido"
+
+#: includes/admin/tools/post-types-export.php:18
+#: includes/admin/tools/post-types-export.php:19
+msgid "Export Post Types"
+msgstr "Exportar tipos de contenido"
+
+#: includes/admin/tools/options-pages-import.php:19
+#: includes/admin/tools/options-pages-import.php:20
+msgid "Import Options Pages"
+msgstr "Importar páginas de opciones"
+
+#: includes/admin/tools/taxonomies-export.php:28
+msgid "No taxonomies selected"
+msgstr "No hay taxonomías seleccionadas"
+
+#: includes/admin/tools/taxonomies-export.php:20
+msgid "Select Taxonomies"
+msgstr "Seleccionar taxonomías"
+
+#: includes/admin/tools/taxonomies-export.php:18
+#: includes/admin/tools/taxonomies-export.php:19
+msgid "Export Taxonomies"
+msgstr "Exportar taxonomías"
+
+#: includes/admin/tools/options-pages-export.php:28
+msgid "No options pages selected"
+msgstr "No se ha seleccionado ninguna página de opciones"
+
+#: includes/admin/tools/module-export.php:80
+msgid "Export File"
+msgstr "Exportar archivo"
+
+#: includes/admin/tools/options-pages-export.php:27
+msgid "No options page available."
+msgstr "No hay ninguna página de opciones disponible."
+
+#: includes/admin/tools/options-pages-export.php:20
+msgid "Select Options Pages"
+msgstr "Seleccionar páginas de opciones"
+
+#: includes/admin/tools/options-pages-export.php:18
+#: includes/admin/tools/options-pages-export.php:19
+msgid "Export Options Pages"
+msgstr "Exportar páginas de opciones"
+
+#: includes/admin/tools/module-import.php:131
+msgid "Import file empty"
+msgstr "Archivo de importación vacío"
+
+#: includes/admin/tools/module-import.php:119
+msgid "Incorrect file type"
+msgstr "Tipo de archivo incorrecto"
+
+#: includes/admin/tools/module-import.php:111
+msgid "Error uploading file. Please try again"
+msgstr "Error al subir el archivo. Por favor, inténtalo de nuevo"
+
+#: includes/admin/tools/module-import.php:100
+msgid "No file selected"
+msgstr "Ningún archivo seleccionado"
+
+#: includes/admin/tools/module-import.php:35
+msgid "Import File"
+msgstr "Importar archivo"
+
+#: includes/admin/tools/module-import.php:24
+msgid "Select File"
+msgstr "Seleccionar archivo"
+
+#: includes/admin/tools/post-types-import.php:19
+#: includes/admin/tools/post-types-import.php:20
+msgid "Import Post Types"
+msgstr "Importar tipos de contenido"
+
+#: includes/admin/plugins.php:12
+msgid "Advanced Custom Fields"
+msgstr "Advanced Custom Fields"
+
+#: includes/modules/post-types.php:26
+msgid "Posts"
+msgstr "Entradas"
+
+#: includes/modules/taxonomies.php:26
+msgid "Terms"
+msgstr "Términos"
+
+#: includes/field-groups/field-groups.php:135
+#: includes/field-groups/field-groups.php:155
+msgid "Json"
+msgstr "JSON"
+
+#: includes/fields/field-flexible-content-select.php:52
+msgid "Select layouts in a modal"
+msgstr "Seleccionar el diseño en una ventana emergente"
+
+#: includes/fields/field-flexible-content-edit.php:57
+msgid "Edit layout content in a modal"
+msgstr "Editar el contenido del diseño en una ventana emergente"
+
+#: includes/fields/field-flexible-content-thumbnail.php:77
+msgid "Thumbnail"
+msgstr "Miniatura"
+
+#: includes/fields/field-flexible-content-state.php:40
+msgid "Force layouts to be collapsed or opened"
+msgstr "Forzar los diseños para cerrar o abrir"
+
+#: includes/fields/field-flexible-content-select.php:79
+#: includes/field-groups/field-groups.php:92
+#: includes/field-groups/field-groups.php:103
+msgid "Title"
+msgstr "Título"
+
+#: includes/fields/field-flexible-content-thumbnail.php:46
+msgid "Layouts Thumbnails"
+msgstr "Diseños de miniaturas"
+
+#: includes/fields/field-flexible-content-controls.php:146
+msgid "Click the \"Add Row\" button below to start creating your layout"
+msgstr "Haz clic a continuación en el botón «Añadir fila» para comenzar a crear tu diseño"
+
+#: includes/fields/field-flexible-content-controls.php:144
+msgid "Text displayed when the flexible field is empty"
+msgstr "Texto que se muestra cuando el campo flexible está vacío"
+
+#: includes/fields/field-flexible-content-controls.php:141
+msgid "Empty Message"
+msgstr "Mensaje vacío"
+
+#: includes/fields/field-flexible-content-controls.php:116
+msgid "Hide the empty message box"
+msgstr "Ocultar el cuadro de mensaje vacío"
+
+#: includes/fields/field-flexible-content-controls.php:113
+msgid "Hide Empty Message"
+msgstr "Ocultar el mensaje vacío"
+
+#: includes/fields/field-flexible-content-controls.php:88
+msgid "Better actions buttons integration"
+msgstr "Mejor integración de botones de acciones"
+
+#: includes/fields/field-repeater.php:14
+#: includes/fields/field-flexible-content-controls.php:85
+msgid "Stylised Button"
+msgstr "Botón estilizado"
+
+#: includes/modules/block-types.php:1005
+msgid "Dynamic Block Type"
+msgstr "Tipo de bloque dinámico"
+
+#: includes/fields/field-flexible-content-preview.php:145
+#: includes/modules/block-types.php:27
+msgid "Render"
+msgstr "Mostrar"
+
+#: includes/fields/field-flexible-content-select.php:209
+#: includes/modules/block-types.php:25
+msgid "Category"
+msgstr "Categoría"
+
+#: includes/modules/options-pages.php:25
+msgid "Post ID"
+msgstr "ID de la entrada"
+
+#: includes/fields/field-image.php:88
+msgid "Make this image the featured thumbnail"
+msgstr "Haz de esta imagen la miniatura destacada"
+
+#: includes/fields/field-image.php:85
+msgid "Featured thumbnail"
+msgstr "Miniatura destacada"
+
+#. Author URI of the plugin
+msgid "https://www.acf-extended.com"
+msgstr "https://www.acf-extended.com"
+
+#. Author of the plugin
+msgid "ACF Extended"
+msgstr "ACF Extended"
+
+#: includes/admin/options.class.php:197
+msgid "ID"
+msgstr "ID"
+
+#: includes/admin/options.class.php:99
+msgid "No options avaliable."
+msgstr "No hay opciones disponibles."
+
+#: includes/admin/options.class.php:18
+msgid "Option"
+msgstr "Opción"
+
+#: includes/admin/views/html-options-list.php:4
+msgid "Add New"
+msgstr "Añadir nuevo"
+
+#: includes/admin/options.php:574
+msgid "Option has been added"
+msgstr "La opción ha sido añadida"
+
+#: includes/admin/options.php:563
+msgid "Option has been updated"
+msgstr "La opción ha sido actualizada"
+
+#: includes/admin/options.php:505
+msgid "Edit field group"
+msgstr "Editar grupo de campos"
+
+#: includes/admin/options.php:475 includes/admin/options.class.php:180
+#: includes/admin/options.class.php:234 includes/modules/dev.php:276
+#: includes/modules/dev.php:319
+msgid "Delete"
+msgstr "Borrar"
+
+#: includes/admin/options.php:460 includes/admin/views/html-options-edit.php:4
+msgid "Edit Option"
+msgstr "Opciones de edición"
+
+#: includes/admin/options.php:443 includes/modules/options-pages.php:295
+#: assets/js/acfe-admin.js:498
+msgid "Yes"
+msgstr "Sí"
+
+#: includes/admin/options.php:442 includes/modules/options-pages.php:291
+#: assets/js/acfe-admin.js:499
+msgid "No"
+msgstr "No"
+
+#: includes/admin/options.php:427 includes/admin/options.class.php:200
+#: includes/modules/options-pages.php:26
+msgid "Autoload"
+msgstr "Carga automática"
+
+#: includes/admin/options.php:403
+msgid "Value "
+msgstr "Valor"
+
+#: includes/admin/options.php:340 includes/admin/options.php:371
+msgid "Value <code style=\"font-size:11px;float:right; line-height:1.2; margin-top:1px;\">"
+msgstr "Valor <code style=\"font-size:11px;float:right; line-height:1.2; margin-top:1px;\">"
+
+#: includes/admin/options.php:305 includes/admin/options.class.php:198
+#: includes/modules/post-types.php:24 includes/modules/taxonomies.php:24
+#: includes/modules/block-types.php:24 includes/modules/forms.php:25
+msgid "Name"
+msgstr "Nombre"
+
+#: includes/admin/options.php:194
+msgid "Options have been deleted"
+msgstr "Se han borrado las opciones."
+
+#: includes/admin/options.php:158
+msgid "Option has been deleted"
+msgstr "La opción ha sido borrada"
+
+#: includes/admin/options.php:26 includes/admin/views/html-options-list.php:3
+#: includes/admin/options.class.php:19
+msgid "Options"
+msgstr "Opciones"
+
+#: includes/admin/options.php:482 includes/locations/post-type-list.php:337
+#: includes/locations/taxonomy-list.php:328
+msgid "Update"
+msgstr "Actualizar"
+
+#: includes/admin/options.php:459 includes/admin/options.class.php:179
+#: includes/fields/field-clone.php:98 includes/fields/field-clone.php:145
+#: includes/fields/field-group.php:83 includes/fields/field-group.php:129
+#: includes/fields/field-advanced-link.php:422 includes/modules/ui.php:149
+#: includes/modules/ui.php:327 includes/modules/ui.php:412
+#: includes/modules/dev.php:271
+msgid "Edit"
+msgstr "Editar"
+
+#: includes/modules/author.php:85
+msgid "Author"
+msgstr "Autor"
+
+#: includes/fields-settings/bidirectional.php:41
+msgid "Set the field as bidirectional"
+msgstr "Establecer el campo como bidireccional"
+
+#: includes/fields-settings/bidirectional.php:38
+msgid "Bidirectional"
+msgstr "Bidireccional"
+
+#: includes/admin/options.php:455 includes/admin/views/html-options-edit.php:6
+msgid "Add Option"
+msgstr "Añadir opción"
+
+#: includes/modules/taxonomies.php:1105
+msgid "Dynamic Taxonomy"
+msgstr "Taxonomía dinámica"
+
+#: includes/modules/taxonomies.php:738
+msgid "This taxonomy name already exists"
+msgstr "Este nombre de taxonomía ya existe"
+
+#: includes/modules/taxonomies.php:714
+msgid "This taxonomy name is reserved"
+msgstr "Este nombre de taxonomía está reservado"
+
+#: includes/modules/taxonomies.php:25 includes/modules/block-types.php:26
+msgid "Post Types"
+msgstr "Tipos de contenido"
+
+#: includes/modules/post-types.php:1054
+msgid "Dynamic Post Type"
+msgstr "Tipo de contenido dinámico"
+
+#: includes/modules/post-types.php:697
+msgid "This post type name already exists"
+msgstr "El nombre de este tipo de contenido ya existe"
+
+#: includes/modules/post-types.php:673
+msgid "This post type name is reserved"
+msgstr "El nombre de este tipo de contenido está reservado"
+
+#: includes/fields/field-taxonomies.php:84
+msgid "Taxonomy name"
+msgstr "Nombre de la taxonomía"
+
+#: includes/fields/field-taxonomies.php:83
+msgid "Taxonomy object"
+msgstr "Objeto de taxonomía"
+
+#: includes/fields/field-taxonomies.php:13 includes/modules/post-types.php:25
+msgid "Taxonomies"
+msgstr "Taxonomías"
+
+#: includes/fields/field-slug.php:88
+msgid "Value must not exceed %d characters"
+msgstr "El valor no debe exceder de los %d caracteres"
+
+#: includes/fields/field-code-editor.php:112 includes/fields/field-slug.php:76
+msgid "Leave blank for no limit"
+msgstr "Dejar en blanco si no quieres límite"
+
+#: includes/fields/field-code-editor.php:111 includes/fields/field-slug.php:75
+msgid "Character Limit"
+msgstr "Límite de caracteres"
+
+#: includes/fields/field-slug.php:67
+msgid "Appears after the input"
+msgstr "Aparece después del campo "
+
+#: includes/fields/field-slug.php:66
+msgid "Append"
+msgstr "Adjuntar"
+
+#: includes/fields/field-slug.php:58
+msgid "Appears before the input"
+msgstr "Aparece antes del campo"
+
+#: includes/fields/field-slug.php:57
+msgid "Prepend"
+msgstr "Anteponer"
+
+#: includes/fields/field-post-statuses.php:177
+#: includes/fields/field-code-editor.php:70 includes/fields/field-slug.php:49
+#: includes/fields/field-forms.php:127 includes/fields/field-taxonomies.php:177
+#: includes/fields/field-user-roles.php:163
+#: includes/fields/field-taxonomy-terms.php:843
+#: includes/fields/field-post-types.php:177 includes/fields/field-select.php:69
+msgid "Appears within the input"
+msgstr "Aparece dentro del campo"
+
+#: includes/fields/field-slug.php:48 includes/fields/field-forms.php:126
+#: includes/fields/field-taxonomy-terms.php:842
+msgid "Placeholder Text"
+msgstr "Texto del marcador de posición"
+
+#: includes/fields/field-code-editor.php:61 includes/fields/field-slug.php:40
+msgid "Appears when creating a new post"
+msgstr "Aparece al crear una nueva entrada"
+
+#: includes/fields/field-post-statuses.php:70
+#: includes/fields/field-code-editor.php:60 includes/fields/field-slug.php:39
+#: includes/fields/field-forms.php:80 includes/fields/field-taxonomies.php:70
+#: includes/fields/field-user-roles.php:69
+#: includes/fields/field-taxonomy-terms.php:777
+#: includes/fields/field-post-types.php:70
+msgid "Default Value"
+msgstr "Valor por defecto"
+
+#: includes/fields/field-slug.php:13
+msgid "Slug"
+msgstr "Slug"
+
+#: includes/fields/field-post-types.php:84
+msgid "Post type name"
+msgstr "Nombre del tipo de contenido"
+
+#: includes/fields/field-post-types.php:83
+msgid "Post type object"
+msgstr "Objeto del tipo de contenido"
+
+#: includes/fields/field-post-statuses.php:78
+#: includes/fields/field-forms.php:88 includes/fields/field-taxonomies.php:78
+#: includes/fields/field-taxonomy-terms.php:785
+#: includes/fields/field-post-types.php:78
+msgid "Return Value"
+msgstr "Valor de retorno"
+
+#: includes/fields/field-post-statuses.php:64
+#: includes/fields/field-forms.php:74 includes/fields/field-taxonomies.php:64
+#: includes/fields/field-user-roles.php:63
+#: includes/fields/field-taxonomy-terms.php:771
+#: includes/fields/field-post-types.php:64
+msgctxt "noun"
+msgid "Select"
+msgstr "Seleccionar"
+
+#: includes/fields/field-post-statuses.php:63
+#: includes/fields/field-forms.php:73 includes/fields/field-taxonomies.php:63
+#: includes/fields/field-user-roles.php:62
+#: includes/fields/field-taxonomy-terms.php:770
+#: includes/fields/field-post-types.php:63
+msgid "Radio Buttons"
+msgstr "Botones de radio"
+
+#: includes/fields/field-post-statuses.php:62
+#: includes/fields/field-forms.php:72 includes/fields/field-taxonomies.php:62
+#: includes/fields/field-user-roles.php:61
+#: includes/fields/field-taxonomy-terms.php:769
+#: includes/fields/field-post-types.php:62
+msgid "Checkbox"
+msgstr "Casilla de verificación"
+
+#: includes/fields/field-post-statuses.php:57
+#: includes/fields/field-forms.php:67 includes/fields/field-taxonomies.php:57
+#: includes/fields/field-user-roles.php:56
+#: includes/fields/field-taxonomy-terms.php:764
+#: includes/fields/field-post-types.php:57
+msgid "Select the appearance of this field"
+msgstr "Selecciona la apariencia de este campo"
+
+#: includes/fields/field-post-statuses.php:56
+#: includes/fields/field-forms.php:66 includes/fields/field-taxonomies.php:56
+#: includes/fields/field-user-roles.php:55
+#: includes/fields/field-taxonomy-terms.php:763
+#: includes/fields/field-post-types.php:56
+msgid "Appearance"
+msgstr "Apariencia"
+
+#: includes/fields/field-post-types.php:13
+msgid "Post types"
+msgstr "Tipos de contenido"
+
+#: includes/fields/field-taxonomy-terms.php:756
+#: includes/locations/post-type-archive.php:217
+#: includes/locations/post-type-all.php:12
+#: includes/locations/post-type-list.php:400
+#: includes/locations/taxonomy-list.php:377
+msgid "All"
+msgstr "Todos"
+
+#: includes/fields/field-button.php:79
+msgid "Button attributes"
+msgstr "Atributos del botón"
+
+#: includes/admin/options.php:454 includes/fields/field-button.php:16
+#: includes/fields/field-button.php:60
+msgid "Submit"
+msgstr "Enviar"
+
+#: includes/fields/field-button.php:56
+msgid "Button value"
+msgstr "Valor del botón"
+
+#: includes/fields/field-button.php:13 includes/fields/field-button.php:72
+msgid "Button"
+msgstr "Botón"
+
+#: includes/field-groups/field-group.php:271
+msgid "Select user roles that are allowed to view and edit this field group in post edition"
+msgstr "Selecciona los perfiles de usuario que pueden ver y editar este grupo de campos en la edición posterior"
+
+#: includes/field-groups/field-group.php:246
+msgid "Auto Sync"
+msgstr "Sincronización automática"
+
+#: includes/field-groups/field-group.php:98
+msgid "Render this title on edit post screen"
+msgstr "Mostrar este título en la pantalla de edición de la entrada"
+
+#: includes/field-groups/field-group.php:97
+msgid "Display title"
+msgstr "Mostrar título"
+
+#: includes/field-groups/field-group.php:48
+#: includes/fields-settings/settings.php:85
+msgid "Advanced Settings"
+msgstr "Ajustes avanzados"
+
+#: includes/field-groups/field-group-meta.php:108
+msgid "Field group data"
+msgstr "Datos del grupo de campos"
+
+#: includes/admin/options.class.php:199 includes/fields/field-hidden.php:43
+#: includes/field-groups/field-group-meta.php:74
+msgid "Value"
+msgstr "Valor"
+
+#: includes/field-groups/field-group-meta.php:57
+msgid "Key"
+msgstr "Clave"
+
+#: includes/field-groups/field-group-meta.php:41
+msgid "Custom meta data"
+msgstr "Datos meta personalizados"
+
+#: includes/field-groups/field-group-meta.php:98
+msgid "Add personal note. Only visible to administrators"
+msgstr "Añadir nota personal. Solo visible para administradores"
+
+#: includes/field-groups/field-group-meta.php:94
+msgid "Note"
+msgstr "Nota"
+
+#: includes/fields/field-flexible-content-select.php:168
+#: includes/field-groups/field-group-category.php:68
+#: includes/field-groups/field-group-category.php:94
+msgid "Categories"
+msgstr "Categorías"
+
+#: includes/field-groups/field-group-category.php:54
+msgid "category"
+msgstr "categoría"
+
+#: includes/field-groups/field-group-category.php:53
+msgid "New category name"
+msgstr "Nombre de la nueva categoría"
+
+#: includes/field-groups/field-group-category.php:52
+msgid "Add New category"
+msgstr "Añadir una nueva categoría"
+
+#: includes/field-groups/field-group-category.php:51
+msgid "Update category"
+msgstr "Actualizar categoría"
+
+#: includes/field-groups/field-group-category.php:50
+msgid "Edit category"
+msgstr "Editar la categoría"
+
+#: includes/field-groups/field-group-category.php:49
+msgid "Parent category:"
+msgstr "Categoría superior:"
+
+#: includes/field-groups/field-group-category.php:48
+msgid "Parent category"
+msgstr "Categoría superior"
+
+#: includes/field-groups/field-group-category.php:47
+msgid "All categories"
+msgstr "Todas las categorías"
+
+#: includes/field-groups/field-group-category.php:46
+msgid "Search categories"
+msgstr "Buscar categorías"
+
+#: includes/field-groups/field-group-category.php:44
+#: includes/field-groups/field-group-category.php:45
+msgctxt "Category"
+msgid "Categories"
+msgstr "Categorías"
+
+#: includes/field-groups/field-groups.php:116
+msgid "Json Sync"
+msgstr "Sincronización JSON"
+
+#: includes/field-groups/field-groups.php:113
+msgid "PHP Sync"
+msgstr "Sincronización PHP"
+
+#: includes/field-groups/field-groups.php:96
+#: includes/field-groups/field-groups.php:107
+#: includes/field-groups/field-groups.php:129
+#: includes/field-groups/field-groups.php:149
+msgid "Load"
+msgstr "Cargar"
+
+#: includes/field-groups/field-groups.php:95
+#: includes/field-groups/field-groups.php:106
+#: includes/field-groups/field-groups.php:128
+#: includes/field-groups/field-groups.php:147
+msgid "Location"
+msgstr "Ubicación"
+
+#: includes/admin/settings.php:469 includes/admin/settings.php:579
+#: includes/admin/settings.php:591
+#: includes/fields/field-flexible-content.php:55
+#: includes/fields-settings/settings.php:122
+msgid "Settings"
+msgstr "Ajustes"
+
+#: includes/fields/field-dynamic-message.php:13
+msgid "Dynamic Message"
+msgstr "Mensaje dinámico"
+
+#: includes/fields-settings/validation.php:183
+msgid "+ AND"
+msgstr "+ Y"
+
+#: includes/fields-settings/validation.php:178
+msgid "Rules"
+msgstr "Reglas"
+
+#: includes/fields-settings/validation.php:144
+msgid "Validate value against rules"
+msgstr "Validar valor contra las reglas"
+
+#: includes/field-groups/field-group-meta.php:137
+#: includes/field-groups/field-group-meta.php:146
+#: includes/fields-settings/data.php:70
+msgid "Data"
+msgstr "Datos"
+
+#: includes/core/helpers.php:686
+msgid "Super Admin"
+msgstr "Superadministrador"
+
+#: includes/field-groups/field-group.php:267
+#: includes/fields-settings/permissions.php:22
+msgid "Permissions"
+msgstr "Permisos"
+
+#. Plugin Name of the plugin
+msgid "Advanced Custom Fields: Extended"
+msgstr "Advanced Custom Fields: Extended"

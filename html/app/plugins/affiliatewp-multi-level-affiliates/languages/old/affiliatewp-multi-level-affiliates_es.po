@@ -1,0 +1,672 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: AffiliateWP - Multi Level Affiliates\n"
+"POT-Creation-Date: 2017-08-01 10:12+1000\n"
+"PO-Revision-Date: 2017-08-01 10:12+1000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.0.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: affiliatewp-multi-level-affiliates.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/class-licenses.php:166
+msgid "Your license is valid."
+msgstr "Su licencia es válida."
+
+#: includes/class-licenses.php:170
+msgid "Your license is invalid."
+msgstr "Licencia no válida."
+
+#: includes/class-licenses.php:173
+msgid "Enter your license key and save the settings to activate."
+msgstr ""
+
+#: includes/class-updater.bk.php:203
+#, php-format
+msgid ""
+"There is a new version of %1$s available. <a target=\"_blank\" class="
+"\"thickbox\" href=\"%2$s\">View version %3$s details</a>."
+msgstr ""
+
+#: includes/class-updater.bk.php:210
+#, php-format
+msgid ""
+"There is a new version of %1$s available. <a target=\"_blank\" class="
+"\"thickbox\" href=\"%2$s\">View version %3$s details</a> or <a href=\"%4$s"
+"\">update now</a>."
+msgstr ""
+
+#: includes/class-updater.bk.php:350 includes/class-updater.php:437
+msgid "You do not have permission to install plugin updates"
+msgstr ""
+
+#: includes/class-updater.bk.php:350 includes/class-updater.php:437
+msgid "Error"
+msgstr "Error"
+
+#: includes/class-updater.php:238
+#, php-format
+msgid ""
+"There is a new version of %1$s available. %2$sView version %3$s details%4$s."
+msgstr ""
+
+#: includes/class-updater.php:246
+#, php-format
+msgid ""
+"There is a new version of %1$s available. %2$sView version %3$s details%4$s "
+"or %5$supdate now%6$s."
+msgstr ""
+
+#: plugin_core/class-hooks.php:312
+msgid "MLA Charts"
+msgstr ""
+
+#: plugin_core/class-notifications.php:30
+msgid "MLA Registration (Affiliate) Subject"
+msgstr ""
+
+#: plugin_core/class-notifications.php:37
+msgid "Enable MLA Registration (Affiliate)"
+msgstr ""
+
+#: plugin_core/class-notifications.php:44
+msgid "MLA Registration (Affiliate) Content"
+msgstr ""
+
+#: plugin_core/class-notifications.php:51
+msgid "MLA Registration (Referrer) Subject"
+msgstr ""
+
+#: plugin_core/class-notifications.php:58
+msgid "Enable MLA Registration (Referrer)"
+msgstr ""
+
+#: plugin_core/class-notifications.php:65
+msgid "MLA Registration (Referrer) Content"
+msgstr ""
+
+#: plugin_core/class-notifications.php:72
+msgid "MLA Registration (Team Leader) Subject"
+msgstr ""
+
+#: plugin_core/class-notifications.php:79
+msgid "Enable MLA Registration (Team Leader)"
+msgstr ""
+
+#: plugin_core/class-notifications.php:86
+msgid "MLA Registration (Team Leader) Content"
+msgstr ""
+
+#: plugin_core/class-notifications.php:93
+msgid "MLA Registration (Super Team Leader) Subject"
+msgstr ""
+
+#: plugin_core/class-notifications.php:100
+msgid "Enable MLA Registration (Super Team Leader)"
+msgstr ""
+
+#: plugin_core/class-notifications.php:107
+msgid "MLA Registration (Super Team Leader) Content"
+msgstr ""
+
+#: plugin_core/class-notifications.php:114
+msgid "MLA Referral (Team Leader) Subject"
+msgstr ""
+
+#: plugin_core/class-notifications.php:121
+msgid "Enable MLA Referral (Team Leader)"
+msgstr ""
+
+#: plugin_core/class-notifications.php:128
+msgid "MLA Referral (Team Leader) Content"
+msgstr ""
+
+#: plugin_core/class-notifications.php:135
+msgid "MLA Referral (Super Team Leader) Subject"
+msgstr ""
+
+#: plugin_core/class-notifications.php:142
+msgid "Enable MLA Referral (Super Team Leader)"
+msgstr ""
+
+#: plugin_core/class-notifications.php:149
+msgid "MLA Referral (Super Team Leader) Content"
+msgstr ""
+
+#: plugin_core/class-notifications.php:241
+msgid "MLA affiliate full name"
+msgstr ""
+
+#: plugin_core/class-notifications.php:247
+msgid "MLA affiliate contact details"
+msgstr ""
+
+#: plugin_core/class-notifications.php:253
+msgid "MLA Parent first name"
+msgstr ""
+
+#: plugin_core/class-notifications.php:259
+msgid "MLA Parent last name"
+msgstr ""
+
+#: plugin_core/class-notifications.php:265
+msgid "MLA Parent full name"
+msgstr ""
+
+#: plugin_core/class-notifications.php:271
+msgid "MLA Parent contact details"
+msgstr ""
+
+#: plugin_core/class-notifications.php:277
+msgid "MLA Team Leader first name"
+msgstr ""
+
+#: plugin_core/class-notifications.php:283
+msgid "MLA Team Leader last name"
+msgstr ""
+
+#: plugin_core/class-notifications.php:289
+msgid "MLA Team Leader full name"
+msgstr ""
+
+#: plugin_core/class-notifications.php:295
+msgid "MLA Team Leader contact details"
+msgstr ""
+
+#: plugin_core/class-reports.php:29
+msgid "Today"
+msgstr "Hoy"
+
+#: plugin_core/class-reports.php:30
+msgid "Yesterday"
+msgstr "Ayer"
+
+#: plugin_core/class-reports.php:31
+msgid "This Week"
+msgstr "Esta semana"
+
+#: plugin_core/class-reports.php:32
+msgid "Last Week"
+msgstr "La semana pasada"
+
+#: plugin_core/class-reports.php:33
+msgid "This Month"
+msgstr "Este mes"
+
+#: plugin_core/class-reports.php:34
+msgid "Last Month"
+msgstr "El mes pasado"
+
+#: plugin_core/class-reports.php:35
+msgid "This Quarter"
+msgstr "Este trimestre"
+
+#: plugin_core/class-reports.php:36
+msgid "Last Quarter"
+msgstr "El trimestre pasado"
+
+#: plugin_core/class-reports.php:37
+msgid "This Year"
+msgstr "Este año"
+
+#: plugin_core/class-reports.php:38
+msgid "Last Year"
+msgstr "El año pasado"
+
+#: plugin_core/class-reports.php:39
+msgid "Custom"
+msgstr "Personalizado"
+
+#: plugin_core/class-reports.php:88
+msgctxt "date filter"
+msgid "From"
+msgstr ""
+
+#: plugin_core/class-reports.php:89
+msgid "From - mm/dd/yyyy"
+msgstr ""
+
+#: plugin_core/class-reports.php:90
+msgctxt "date filter"
+msgid "To"
+msgstr ""
+
+#: plugin_core/class-reports.php:91
+msgid "To - mm/dd/yyyy"
+msgstr ""
+
+#: plugin_core/class-reports.php:96
+msgid "Filter"
+msgstr "Filtro"
+
+#: plugin_core/class-settings.php:46
+msgid "MLA"
+msgstr ""
+
+#: plugin_core/class-settings.php:100
+msgid "License Settings"
+msgstr "Ajustes de Licencia"
+
+#: plugin_core/class-settings.php:106
+msgid "License Key"
+msgstr "Clave de licencia"
+
+#: plugin_core/class-settings.php:107
+msgid "Activated license required for automatic updates."
+msgstr ""
+
+#: plugin_core/class-settings.php:112
+msgid "General Settings"
+msgstr "Ajustes Generales"
+
+#: plugin_core/class-settings.php:118
+msgid "Enable MLA"
+msgstr ""
+
+#: plugin_core/class-settings.php:118
+msgid "Enable or disable all MLA features"
+msgstr ""
+
+#: plugin_core/class-settings.php:122
+msgid "Integrations"
+msgstr "Integraciones"
+
+#: plugin_core/class-settings.php:128
+msgid "Add dashboard tab to BuddyPress settings"
+msgstr ""
+
+#: plugin_core/class-settings.php:133
+msgid "Enable Recurring Referrals"
+msgstr ""
+
+#: plugin_core/class-settings.php:133
+msgid "Integrate MLA with the Recurring Referrals add-on"
+msgstr ""
+
+#: plugin_core/class-settings.php:137
+msgid "Chart Settings"
+msgstr "Ajustes de la gráfica"
+
+#: plugin_core/class-settings.php:143
+msgid "Enable Pan by default"
+msgstr ""
+
+#: plugin_core/class-settings.php:148
+msgid "Enable Zoom by default"
+msgstr ""
+
+#: plugin_core/class-settings.php:153
+msgid "Number of levels to display. Defaults to the Maxtrix Max Depth"
+msgstr ""
+
+#: plugin_core/class-settings.php:157
+msgid "Dashboard Tab 1"
+msgstr ""
+
+#: plugin_core/class-settings.php:163
+msgid "Enable Dashboard Tab 1"
+msgstr ""
+
+#: plugin_core/class-settings.php:168
+msgid "Tab 1 title"
+msgstr ""
+
+#: plugin_core/class-settings.php:173
+msgid "Tab 1 features"
+msgstr ""
+
+#: plugin_core/class-settings.php:176 plugin_core/class-settings.php:203
+#: plugin_core/class-settings.php:230
+msgid "Affiliate Commission Rates"
+msgstr ""
+
+#: plugin_core/class-settings.php:177 plugin_core/class-settings.php:204
+#: plugin_core/class-settings.php:231
+msgid "Affiliate Earnings"
+msgstr ""
+
+#: plugin_core/class-settings.php:178 plugin_core/class-settings.php:205
+#: plugin_core/class-settings.php:232
+msgid "Network Statistics"
+msgstr ""
+
+#: plugin_core/class-settings.php:179 plugin_core/class-settings.php:206
+#: plugin_core/class-settings.php:233
+msgid "Network chart"
+msgstr ""
+
+#: plugin_core/class-settings.php:184
+msgid "Dashboard Tab 2"
+msgstr ""
+
+#: plugin_core/class-settings.php:190
+msgid "Enable Dashboard Tab 2"
+msgstr ""
+
+#: plugin_core/class-settings.php:195
+msgid "Tab 2 title"
+msgstr ""
+
+#: plugin_core/class-settings.php:200
+msgid "Tab 2 features"
+msgstr ""
+
+#: plugin_core/class-settings.php:211
+msgid "Dashboard Tab 3"
+msgstr ""
+
+#: plugin_core/class-settings.php:217
+msgid "Enable Dashboard Tab 3"
+msgstr ""
+
+#: plugin_core/class-settings.php:222
+msgid "Tab 3 title"
+msgstr ""
+
+#: plugin_core/class-settings.php:227
+msgid "Tab 3 features"
+msgstr ""
+
+#: plugin_core/class-settings.php:238
+msgid "Matrix Settings"
+msgstr ""
+
+#: plugin_core/class-settings.php:728
+msgid "Network Stucture Settings"
+msgstr ""
+
+#: plugin_core/class-settings.php:730
+msgid "Default Parent Affiliate:"
+msgstr ""
+
+#: plugin_core/class-settings.php:757
+msgid "Max Width:"
+msgstr ""
+
+#: plugin_core/class-settings.php:761
+msgid "Allow Spillover:"
+msgstr ""
+
+#: plugin_core/class-settings.php:770
+#, fuzzy
+#| msgid "General Settings"
+msgid "Referral Settings"
+msgstr "Ajustes Generales"
+
+#: plugin_core/class-settings.php:772
+msgid "Direct Referral (level 1) Mode:"
+msgstr ""
+
+#: plugin_core/class-settings.php:774
+msgid "Level 1 rate (as set below)"
+msgstr ""
+
+#: plugin_core/class-settings.php:775
+msgid "Disabled - Rate set by AffiliateWP or other add-ons"
+msgstr ""
+
+#: plugin_core/class-settings.php:780
+#, fuzzy
+#| msgid "General Settings"
+msgid "Per Level Settings"
+msgstr "Ajustes Generales"
+
+#: plugin_core/class-settings.php:783
+msgid "Payment Levels:"
+msgstr ""
+
+#: plugin_core/class-settings.php:786 plugin_core/class-settings.php:830
+#: plugin_core/class-settings.php:867
+msgid "Rate Type:"
+msgstr ""
+
+#: plugin_core/class-settings.php:788 plugin_core/class-settings.php:832
+#: plugin_core/class-settings.php:869
+msgid "Site Default"
+msgstr ""
+
+#: plugin_core/class-settings.php:789 plugin_core/class-settings.php:833
+#: plugin_core/class-settings.php:870
+msgid "Percentage"
+msgstr ""
+
+#: plugin_core/class-settings.php:790 plugin_core/class-settings.php:835
+#: plugin_core/class-settings.php:872
+msgid "Flat"
+msgstr ""
+
+#: plugin_core/class-settings.php:792
+msgid "Default Value:"
+msgstr ""
+
+#: plugin_core/class-settings.php:798
+msgid "Default value is only used for empty per levels values below."
+msgstr ""
+
+#: plugin_core/class-settings.php:801
+msgid "Per Level Rate Values"
+msgstr ""
+
+#: plugin_core/class-settings.php:809
+#: templates/dashboard-affiliate-rates.php:13
+#: templates/dashboard-network-statistics.php:13
+msgid "Level"
+msgstr "Nivel"
+
+#: plugin_core/class-settings.php:815
+msgid "Save your settings if some levels are not displayed."
+msgstr ""
+
+#: plugin_core/class-settings.php:820
+#, fuzzy
+#| msgid "General Settings"
+msgid "Team Leader Referral Settings"
+msgstr "Ajustes Generales"
+
+#: plugin_core/class-settings.php:822
+msgid "Team Leader Referral Mode:"
+msgstr ""
+
+#: plugin_core/class-settings.php:824 plugin_core/class-settings.php:861
+msgid "Disabled - No Commission Paid"
+msgstr ""
+
+#: plugin_core/class-settings.php:825 plugin_core/class-settings.php:862
+msgid "Enabled - Within Max Depth Only"
+msgstr ""
+
+#: plugin_core/class-settings.php:826 plugin_core/class-settings.php:863
+msgid "Enabled - Outside Max Depth Allowed"
+msgstr ""
+
+#: plugin_core/class-settings.php:834 plugin_core/class-settings.php:871
+msgid "Percentage Remainder"
+msgstr ""
+
+#: plugin_core/class-settings.php:837 plugin_core/class-settings.php:874
+msgid "Rate Value:"
+msgstr ""
+
+#: plugin_core/class-settings.php:847 plugin_core/class-settings.php:884
+msgid "Award single commission only (when inside max depth):"
+msgstr ""
+
+#: plugin_core/class-settings.php:853 plugin_core/class-settings.php:890
+msgid ""
+"Use per level rate if higher (when inside max depth and single commission "
+"enabled):"
+msgstr ""
+
+#: plugin_core/class-settings.php:857
+msgid "Super Team Leader Referral Settings"
+msgstr ""
+
+#: plugin_core/class-settings.php:859
+msgid "Super Team Leader Referral Mode:"
+msgstr ""
+
+#: plugin_core/class-settings.php:943 plugin_core/class-settings.php:1007
+msgid "Parent Affiliate"
+msgstr ""
+
+#: plugin_core/class-settings.php:953
+msgid "Start typing the affiliate's name to search."
+msgstr ""
+
+#: plugin_core/class-settings.php:1017
+msgid "Enter the name of the affiliate to perform a search."
+msgstr ""
+
+#: plugin_core/class-team-leader.php:236
+msgid "Team Leader"
+msgstr "Líder del equipo"
+
+#: plugin_core/class-team-leader.php:252
+msgid "Team Leader Rate"
+msgstr ""
+
+#: plugin_core/class-team-leader.php:263 plugin_core/class-team-leader.php:495
+msgid "Team Leader Title"
+msgstr ""
+
+#: plugin_core/class-team-leader.php:467
+msgid "Super Team Leader"
+msgstr ""
+
+#: plugin_core/class-team-leader.php:483
+msgid "Super Team Leader Rate"
+msgstr ""
+
+#: plugin_core/integrations/affiliatewp-buddypress.php:13
+#: templates/admin/admin-charts-toolbar.php:24
+#: templates/dashboard-charts-toolbar.php:24
+msgid "Affiliate Network"
+msgstr ""
+
+#: templates/admin/admin-charts-network.php:6
+msgid "Please Select an Affiliate Above"
+msgstr ""
+
+#: templates/admin/admin-charts-toolbar.php:29
+msgid "Select Affiliate"
+msgstr ""
+
+#: templates/admin/admin-charts-toolbar.php:47
+#: templates/dashboard-charts-toolbar.php:30
+msgid "Enable Pan"
+msgstr ""
+
+#: templates/admin/admin-charts-toolbar.php:50
+#: templates/dashboard-charts-toolbar.php:33
+msgid "Enable Zoom"
+msgstr ""
+
+#: templates/dashboard-affiliate-earnings.php:7
+msgid "Unpaid"
+msgstr "Sin pagar"
+
+#: templates/dashboard-affiliate-earnings.php:8
+msgid "Paid"
+msgstr "Pagado"
+
+#: templates/dashboard-affiliate-earnings.php:14
+#: templates/dashboard-affiliate-reports-referrals.php:3
+msgid "Referrals"
+msgstr "Referidos"
+
+#: templates/dashboard-affiliate-earnings.php:20
+msgid "Earnings"
+msgstr "Ingresos"
+
+#: templates/dashboard-affiliate-rates.php:14
+msgid "Commission Rate"
+msgstr ""
+
+#: templates/dashboard-affiliate-reports-referrals.php:45
+msgid "Amount"
+msgstr "Importes"
+
+#: templates/dashboard-affiliate-reports-referrals.php:46
+msgid "Description"
+msgstr ""
+
+#: templates/dashboard-affiliate-reports-referrals.php:47
+msgid "Status"
+msgstr "Estado"
+
+#: templates/dashboard-affiliate-reports-referrals.php:48
+msgid "Date"
+msgstr ""
+
+#: templates/dashboard-affiliate-reports-referrals.php:69
+msgid "You have not earned any referrals yet."
+msgstr ""
+
+#: templates/dashboard-network-statistics.php:14
+msgid "Affiliates"
+msgstr "Asociados"
+
+#: templates/dashboard-network-statistics.php:15
+msgid "Unpaid Referrals"
+msgstr ""
+
+#: templates/dashboard-network-statistics.php:16
+msgid "Unpaid Earnings"
+msgstr ""
+
+#: templates/dashboard-network-statistics.php:17
+msgid "Paid Referrals"
+msgstr "Tickets Vendidos"
+
+#: templates/dashboard-network-statistics.php:18
+msgid "Paid Earnings"
+msgstr "Ganancias pagadas"
+
+#: templates/dashboard-tab.php:6
+msgid "Your Commission Rates"
+msgstr ""
+
+#: templates/dashboard-tab.php:15
+msgid "Your Earnings"
+msgstr "Sus ingresos"
+
+#: templates/dashboard-tab.php:24
+msgid "Your Network Statistics"
+msgstr ""
+
+#: templates/dashboard-tab.php:36
+msgid "Your Network Chart"
+msgstr ""
+
+#: templates/dashboard-tab.php:51
+msgid "Reports"
+msgstr "Reportes"
+
+#. Plugin Name of the plugin/theme
+msgid "AffiliateWP - Multi Level Affiliates"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://clickstudio.com.au"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Adds multi-level referrals to AffiliateWP"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Click Studio"
+msgstr "Click Studio"
